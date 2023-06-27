@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "projektdbms1"
+version = "0.1.0"
+description = "Databases 1 Project"
+authors = ["ErykMika <264451@student.pwr.edu.pl>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+sphinx = "^7.0.1"
+psycopg = "^3.1.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
