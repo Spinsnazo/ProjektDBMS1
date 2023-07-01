@@ -11,19 +11,33 @@
 Skrypty do obłsugi głównej bazy danych
 ------------------------------------------------
 
-Zostały sporządzone skrypty do obsługi bazy danych PostgreSQL. Są one umieszczone w katalogu **main_db**. Należą do nich:
+Zostały sporządzone skrypty do obsługi bazy danych PostgreSQL wykorzystujące pythonowy adapter tej bazy danych - pyscopg. Są one umieszczone w katalogu **main**. Należą do nich:
 
 #. **buduj.py** - uruchomienie tego skryptu spowoduje utworzenie (jeżeli jeszcze nie istnieje) struktury bazy danych zgodnej z modelem użytym w aplikacji klienckiej (tabele klienci oraz odczyty)
 
-#. **czysc.py** - skrypt ten powoduje wyczysczenie bazy danych (ale nie usunięcie jej struktury)
+
+#. **czysc.py** - skrypt ten powoduje wyczyszczenie bazy danych
+
 
 #. **importuj.py** - umożliwia zaimportowanie danych z plików csv o nazwach podanych przez użytkownika
 
+
 #. **wprowadz.py** - umożliwia wprowadzenie kilku wierszy danych do bazy danych (klientów/odczytów)
 
-#. **wynik.py** - odczytanie wyników
 
-W wyżej wspominanym katalogu należy umieścić plik JSON **database_creds.json**, który zawiera dane logowania do bazy danych PostgreSQL, tj. w formacie:
+#. **wynik.py** - odczytanie wyników; zawiera możliwą do zaimportowania funkcję wynik(), która zwraca listę krotek - rekordów bazy danych w postaci **(ID klienta, imię, nazwisko, miejscowość, ulica, nr domu, nr mieszkania, wartość odczytu, data odczytu)**. Umożliwia to w dalszym etapie analizę i wizualizację danych.
+
+
+W celu uruchomienia pożądanego skryptu należy wykonać sekwencję poleceń terminalowych z poziomu katalogu głównego:
+
+
+.. code-block:: console
+
+    poetry shell
+    python3 main/<nazwa pliku z rozszerzeniem .py>
+    
+
+W głównym katalogu należy umieścić plik JSON **database_creds.json**, który zawiera dane logowania do bazy danych PostgreSQL, tj. w formacie:
 
 .. code-block:: JSON
 

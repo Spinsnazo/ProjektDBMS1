@@ -18,18 +18,24 @@ Wybrany przeze mnie scenariusz zakłada zbieranie danych o wartościach odczytó
 Model danych przedstawiłem za pomocą diagramów ERD w dwóch konwencjach. Oprócz tego zamieszczone są schematy relacyjne w postaci nawiasowej.
 
 .. image:: erd_modulowy.png
-  :width: 400
+  :width: 600
   :alt: ERD 1
   
 .. image:: erd_projekt.png
-  :width: 400
+  :width: 600
   :alt: ERD 2
 
 
 Obsługa aplikacji klienckiej
 -----------------------------------------------
 
-Aplikacja została napisana w postaci pakietu Python wykonanego z użyciem narzędzia Poetry. Wykorzystany jest moduł sqlite3 do obsługi bazy danych. W celu uruchomienia programu należy uruchomić plik runner.py.
+Aplikacja została napisana w postaci pakietu Python wykonanego z użyciem narzędzia Poetry. Wykorzystany jest moduł sqlite3 do obsługi bazy danych. W celu uruchomienia aplikacji mobilnej należy, z poziomu katalogu głównego projektu, wykonać następującą sekwencję poleceń terminalowych:
+
+.. code-block:: console
+
+    poetry shell
+    python3 mobile/collect.py
+
 Po uruchomieniu aplikacji użytkownik ma do wybrania kilka opcji, po których użytkownik może nawigować za pomocą znaków wprowadzanych z klawiatury.
 
 #. Wyjście z programu
@@ -40,6 +46,8 @@ Po uruchomieniu aplikacji użytkownik ma do wybrania kilka opcji, po których u�
 #. Zapisanie danych do plików csv - klienci.csv oraz odczyty.csv
 
 
-Dodawane odczyty mają domyślną aktualną datę pobraną z urządzenia. Podczas ich dodawania użytkownik może pomocniczo wyświetlić listę klientów (aby dopasować dane ID klienta). Podobnie podczas usuwania danych można wyświetlić rekordy obecne w bazie danych. Wypisywanie odczytów w konsoli polega na wypisaniu krotek składającyh się z ID klienta, adresu, odczytanej wartości oraz daty odczytu.
+Dodawane odczyty mają domyślną aktualną datę pobraną z urządzenia. Podczas ich dodawania użytkownik może pomocniczo wyświetlić listę klientów (aby dopasować dane ID klienta). Podobnie podczas usuwania danych można wyświetlić rekordy obecne w bazie danych. Wypisywanie odczytów w konsoli polega na wypisaniu krotek składającyh się z ID klienta, miejscowości, odczytanej wartości oraz daty odczytu.
 
 Istotne jest ograniczenie, że odczyt nie może być wprowadzony dla klienta, który nie istnieje jeszcze w bazie danych. Próba takiego zapisu zakończy się komunikatem o błędzie. Jednocześnie usunięcie klienta z bazy danych powoduje usunięcie wszystkich powiązanych z nim odczytów.
+
+Dla ułatwienia zadania z części analitycznej został napisany także moduł **generate_random.py**, który został użyty do wygenerowania dużej ilości (1000) rekordów - tj. klientów i odpowiadających im odczytów z 10 różnych miast.

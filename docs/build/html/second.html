@@ -12,11 +12,19 @@
     <script src="_static/doctools.js"></script>
     <script src="_static/sphinx_highlight.js"></script>
     <script src="_static/translations.js"></script>
-    <link rel="search" title="Szukaj" href="search.html" /> 
+    <link rel="search" title="Szukaj" href="search.html" />
+    <link rel="next" title="3. Instrukcja obsługi skryptów do pracy z bazą danych PostgreSQL" href="third.html" />
+    <link rel="prev" title="1. Partycjonowanie danych" href="first.html" /> 
   </head><body>
     <div class="related" role="navigation" aria-label="related navigation">
       <h3>Nawigacja</h3>
       <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="third.html" title="3. Instrukcja obsługi skryptów do pracy z bazą danych PostgreSQL"
+             accesskey="N">dalej</a></li>
+        <li class="right" >
+          <a href="first.html" title="1. Partycjonowanie danych"
+             accesskey="P">wstecz</a> |</li>
         <li class="nav-item nav-item-0"><a href="index.html">Sprawozdanie</a> &#187;</li>
         <li class="nav-item nav-item-this"><a href="">2. Instrukcja obsługi aplikacji klienckiej</a></li> 
       </ul>
@@ -46,13 +54,17 @@
 <h2>Wybrane zagadnienie i przyjęty model danych<a class="headerlink" href="#wybrane-zagadnienie-i-przyjety-model-danych" title="Permalink to this heading">¶</a></h2>
 <p>Wybrany przeze mnie scenariusz zakłada zbieranie danych o wartościach odczytów liczników u klientów. Zbierane informacje przechowywane są w dwóch tabelach (relacjach) - Klienci oraz Odczyty. Każdy klient ma unikatowy identyfikator (ID_klienta), z którym powiązany jest każdy odczyt na zasadzie klucza obcego.
 Model danych przedstawiłem za pomocą diagramów ERD w dwóch konwencjach. Oprócz tego zamieszczone są schematy relacyjne w postaci nawiasowej.</p>
-<a class="reference internal image-reference" href="_images/erd_modulowy.png"><img alt="ERD 1" src="_images/erd_modulowy.png" style="width: 400px;" /></a>
-<a class="reference internal image-reference" href="_images/erd_projekt.png"><img alt="ERD 2" src="_images/erd_projekt.png" style="width: 400px;" /></a>
+<a class="reference internal image-reference" href="_images/erd_modulowy.png"><img alt="ERD 1" src="_images/erd_modulowy.png" style="width: 600px;" /></a>
+<a class="reference internal image-reference" href="_images/erd_projekt.png"><img alt="ERD 2" src="_images/erd_projekt.png" style="width: 600px;" /></a>
 </section>
 <section id="obsluga-aplikacji-klienckiej">
 <h2>Obsługa aplikacji klienckiej<a class="headerlink" href="#obsluga-aplikacji-klienckiej" title="Permalink to this heading">¶</a></h2>
-<p>Aplikacja została napisana w postaci pakietu Python wykonanego z użyciem narzędzia Poetry. Wykorzystany jest moduł sqlite3 do obsługi bazy danych. W celu uruchomienia programu należy uruchomić plik runner.py.
-Po uruchomieniu aplikacji użytkownik ma do wybrania kilka opcji, po których użytkownik może nawigować za pomocą znaków wprowadzanych z klawiatury.</p>
+<p>Aplikacja została napisana w postaci pakietu Python wykonanego z użyciem narzędzia Poetry. Wykorzystany jest moduł sqlite3 do obsługi bazy danych. W celu uruchomienia aplikacji mobilnej należy, z poziomu katalogu głównego projektu, wykonać następującą sekwencję poleceń terminalowych:</p>
+<div class="highlight-console notranslate"><div class="highlight"><pre><span></span><span class="go">poetry shell</span>
+<span class="go">python3 mobile/collect.py</span>
+</pre></div>
+</div>
+<p>Po uruchomieniu aplikacji użytkownik ma do wybrania kilka opcji, po których użytkownik może nawigować za pomocą znaków wprowadzanych z klawiatury.</p>
 <ol class="arabic simple">
 <li><p>Wyjście z programu</p></li>
 <li><p>Usunięcie dotychczasowej bazy danych sqlite3</p></li>
@@ -61,8 +73,9 @@ Po uruchomieniu aplikacji użytkownik ma do wybrania kilka opcji, po których u�
 <li><p>Usuwanie części dotychczasowych danych</p></li>
 <li><p>Zapisanie danych do plików csv - klienci.csv oraz odczyty.csv</p></li>
 </ol>
-<p>Dodawane odczyty mają domyślną aktualną datę pobraną z urządzenia. Podczas ich dodawania użytkownik może pomocniczo wyświetlić listę klientów (aby dopasować dane ID klienta). Podobnie podczas usuwania danych można wyświetlić rekordy obecne w bazie danych. Wypisywanie odczytów w konsoli polega na wypisaniu krotek składającyh się z ID klienta, adresu, odczytanej wartości oraz daty odczytu.</p>
+<p>Dodawane odczyty mają domyślną aktualną datę pobraną z urządzenia. Podczas ich dodawania użytkownik może pomocniczo wyświetlić listę klientów (aby dopasować dane ID klienta). Podobnie podczas usuwania danych można wyświetlić rekordy obecne w bazie danych. Wypisywanie odczytów w konsoli polega na wypisaniu krotek składającyh się z ID klienta, miejscowości, odczytanej wartości oraz daty odczytu.</p>
 <p>Istotne jest ograniczenie, że odczyt nie może być wprowadzony dla klienta, który nie istnieje jeszcze w bazie danych. Próba takiego zapisu zakończy się komunikatem o błędzie. Jednocześnie usunięcie klienta z bazy danych powoduje usunięcie wszystkich powiązanych z nim odczytów.</p>
+<p>Dla ułatwienia zadania z części analitycznej został napisany także moduł <strong>generate_random.py</strong>, który został użyty do wygenerowania dużej ilości (1000) rekordów - tj. klientów i odpowiadających im odczytów z 10 różnych miast.</p>
 </section>
 </section>
 
@@ -83,6 +96,16 @@ Po uruchomieniu aplikacji użytkownik ma do wybrania kilka opcji, po których u�
 </li>
 </ul>
 
+  </div>
+  <div>
+    <h4>Poprzedni temat</h4>
+    <p class="topless"><a href="first.html"
+                          title="poprzedni rozdział">1. Partycjonowanie danych</a></p>
+  </div>
+  <div>
+    <h4>Następny temat</h4>
+    <p class="topless"><a href="third.html"
+                          title="następny rozdział">3. Instrukcja obsługi skryptów do pracy z bazą danych PostgreSQL</a></p>
   </div>
   <div role="note" aria-label="source link">
     <h3>Ta strona</h3>
@@ -108,6 +131,12 @@ Po uruchomieniu aplikacji użytkownik ma do wybrania kilka opcji, po których u�
     <div class="related" role="navigation" aria-label="related navigation">
       <h3>Nawigacja</h3>
       <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="third.html" title="3. Instrukcja obsługi skryptów do pracy z bazą danych PostgreSQL"
+             >dalej</a></li>
+        <li class="right" >
+          <a href="first.html" title="1. Partycjonowanie danych"
+             >wstecz</a> |</li>
         <li class="nav-item nav-item-0"><a href="index.html">Sprawozdanie</a> &#187;</li>
         <li class="nav-item nav-item-this"><a href="">2. Instrukcja obsługi aplikacji klienckiej</a></li> 
       </ul>

@@ -27,17 +27,18 @@ def importuj_odczyty(cur):
     
     
 def importuj():
-    # Odczytaj plik JSON
-    with open("database_creds.json", "r") as json_file:
-        dane = json.loads(json_file.read())
-    # Polacz sie z baza danych
-    conn = psycopg.connect(dbname=dane["db_name"],
-                            user=dane["user_name"],
-                            password=dane["password"],
-                            host=dane["host_name"],
-                            port=dane["port_number"]
-                           )
     try:
+    # Odczytaj plik JSON
+        with open("database_creds.json", "r") as json_file:
+            dane = json.loads(json_file.read())
+        # Polacz sie z baza danych
+        conn = psycopg.connect(dbname=dane["db_name"],
+                                user=dane["user_name"],
+                                password=dane["password"],
+                                host=dane["host_name"],
+                                port=dane["port_number"]
+                               )
+
         with conn.cursor() as cur:
             importuj_klientow(cur)
             importuj_odczyty(cur)

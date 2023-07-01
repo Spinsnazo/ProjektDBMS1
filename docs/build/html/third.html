@@ -12,11 +12,19 @@
     <script src="_static/doctools.js"></script>
     <script src="_static/sphinx_highlight.js"></script>
     <script src="_static/translations.js"></script>
-    <link rel="search" title="Szukaj" href="search.html" /> 
+    <link rel="search" title="Szukaj" href="search.html" />
+    <link rel="next" title="4. Część analityczna" href="fourth.html" />
+    <link rel="prev" title="2. Instrukcja obsługi aplikacji klienckiej" href="second.html" /> 
   </head><body>
     <div class="related" role="navigation" aria-label="related navigation">
       <h3>Nawigacja</h3>
       <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="fourth.html" title="4. Część analityczna"
+             accesskey="N">dalej</a></li>
+        <li class="right" >
+          <a href="second.html" title="2. Instrukcja obsługi aplikacji klienckiej"
+             accesskey="P">wstecz</a> |</li>
         <li class="nav-item nav-item-0"><a href="index.html">Sprawozdanie</a> &#187;</li>
         <li class="nav-item nav-item-this"><a href="">3. Instrukcja obsługi skryptów do pracy z bazą danych PostgreSQL</a></li> 
       </ul>
@@ -42,15 +50,20 @@
 </dl>
 <section id="skrypty-do-oblsugi-glownej-bazy-danych">
 <h2>Skrypty do obłsugi głównej bazy danych<a class="headerlink" href="#skrypty-do-oblsugi-glownej-bazy-danych" title="Permalink to this heading">¶</a></h2>
-<p>Zostały sporządzone skrypty do obsługi bazy danych PostgreSQL. Są one umieszczone w katalogu <strong>main_db</strong>. Należą do nich:</p>
+<p>Zostały sporządzone skrypty do obsługi bazy danych PostgreSQL wykorzystujące pythonowy adapter tej bazy danych - pyscopg. Są one umieszczone w katalogu <strong>main</strong>. Należą do nich:</p>
 <ol class="arabic simple">
 <li><p><strong>buduj.py</strong> - uruchomienie tego skryptu spowoduje utworzenie (jeżeli jeszcze nie istnieje) struktury bazy danych zgodnej z modelem użytym w aplikacji klienckiej (tabele klienci oraz odczyty)</p></li>
-<li><p><strong>czysc.py</strong> - skrypt ten powoduje wyczysczenie bazy danych (ale nie usunięcie jej struktury)</p></li>
+<li><p><strong>czysc.py</strong> - skrypt ten powoduje wyczyszczenie bazy danych</p></li>
 <li><p><strong>importuj.py</strong> - umożliwia zaimportowanie danych z plików csv o nazwach podanych przez użytkownika</p></li>
 <li><p><strong>wprowadz.py</strong> - umożliwia wprowadzenie kilku wierszy danych do bazy danych (klientów/odczytów)</p></li>
-<li><p><strong>wynik.py</strong> - odczytanie wyników</p></li>
+<li><p><strong>wynik.py</strong> - odczytanie wyników; zawiera możliwą do zaimportowania funkcję wynik(), która zwraca listę krotek - rekordów bazy danych w postaci <strong>(ID klienta, imię, nazwisko, miejscowość, ulica, nr domu, nr mieszkania, wartość odczytu, data odczytu)</strong>. Umożliwia to w dalszym etapie analizę i wizualizację danych.</p></li>
 </ol>
-<p>W wyżej wspominanym katalogu należy umieścić plik JSON <strong>database_creds.json</strong>, który zawiera dane logowania do bazy danych PostgreSQL, tj. w formacie:</p>
+<p>W celu uruchomienia pożądanego skryptu należy wykonać sekwencję poleceń terminalowych z poziomu katalogu głównego:</p>
+<div class="highlight-console notranslate"><div class="highlight"><pre><span></span><span class="go">poetry shell</span>
+<span class="go">python3 main/&lt;nazwa pliku z rozszerzeniem .py&gt;</span>
+</pre></div>
+</div>
+<p>W głównym katalogu należy umieścić plik JSON <strong>database_creds.json</strong>, który zawiera dane logowania do bazy danych PostgreSQL, tj. w formacie:</p>
 <div class="highlight-JSON notranslate"><div class="highlight"><pre><span></span><span class="p">{</span>
 <span class="w"> </span><span class="nt">&quot;user_name&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;nazwa uzytkownika&quot;</span><span class="p">,</span>
 <span class="w"> </span><span class="nt">&quot;password&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;haslo&quot;</span><span class="p">,</span>
@@ -80,6 +93,16 @@
 </ul>
 
   </div>
+  <div>
+    <h4>Poprzedni temat</h4>
+    <p class="topless"><a href="second.html"
+                          title="poprzedni rozdział">2. Instrukcja obsługi aplikacji klienckiej</a></p>
+  </div>
+  <div>
+    <h4>Następny temat</h4>
+    <p class="topless"><a href="fourth.html"
+                          title="następny rozdział">4. Część analityczna</a></p>
+  </div>
   <div role="note" aria-label="source link">
     <h3>Ta strona</h3>
     <ul class="this-page-menu">
@@ -104,6 +127,12 @@
     <div class="related" role="navigation" aria-label="related navigation">
       <h3>Nawigacja</h3>
       <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="fourth.html" title="4. Część analityczna"
+             >dalej</a></li>
+        <li class="right" >
+          <a href="second.html" title="2. Instrukcja obsługi aplikacji klienckiej"
+             >wstecz</a> |</li>
         <li class="nav-item nav-item-0"><a href="index.html">Sprawozdanie</a> &#187;</li>
         <li class="nav-item nav-item-this"><a href="">3. Instrukcja obsługi skryptów do pracy z bazą danych PostgreSQL</a></li> 
       </ul>

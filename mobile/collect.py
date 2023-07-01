@@ -111,7 +111,7 @@ def wyswietl_klientow(cur):
         print("ID\tImie\tNazwisko")
         for klient in cur.fetchall():
             for atrybut in klient:
-                print(str(atrybut) + "\t", end="")
+                print(f"{str(atrybut):20}", end="")
             print()
     return
 
@@ -120,10 +120,10 @@ def wyswietl_odczyty(cur):
     wybor = input("Czy chcesz wyswietlic liste zapisanych odczytow? T/t ")
     if wybor.casefold() == "t":
         cur.execute("select * from odczyty")
-        print("ID odczytu\tWartosc\tData odczytu\tMiejscowosc\tUlica\tNr domu\tNr mieszkania\tID klienta")
+        print("ID odczytu/Wartosc/Data odczytu/Miejscowosc/Ulica/Nr domu/Nr mieszkania/ID klienta")
         for klient in cur.fetchall():
             for atrybut in klient:
-                print(str(atrybut) + "\t", end="")
+                print(f"{str(atrybut):20}", end="")
             print()
     return
 
@@ -152,10 +152,10 @@ def wypisz(cur):
     try:
         cur.execute("""SELECT klienci.ID_klienta, Odczyty.Miejscowosc, odczyty.Wartosc, odczyty.Data_odczytu FROM klienci, odczyty
                        WHERE klienci.ID_klienta = odczyty.ID_klienta""")
-        print("ID klienta\tAdres\tWartosc\tData odczytu")
+        print("ID klienta/Miejscowosc/Wartosc/Data odczytu")
         for odczyt in cur.fetchall():
             for atrybut in odczyt:
-                print(str(atrybut) + "\t", end="")
+                print(f"{str(atrybut):20}", end="")
             print()
     except Exception as ex:
         print("Wystapil nieoczekiwany blad podczas wypisywania danych! " + str(ex))

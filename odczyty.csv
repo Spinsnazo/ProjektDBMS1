@@ -1,2 +1,1000 @@
-1;1560;2023-06-26;Wrocław;Zielona;2;3;10
-2;1300;2023-06-26;Opole;Nowa;10;2;10
+1;1277;2023-07-01;Wrocław;Olszynowa;6;0;1
+2;1829;2023-07-01;Legnica;Kwiatowa;11;10;2
+3;1212;2023-07-01;Legnica;Paderewskiego;3;12;3
+4;1145;2023-07-01;Wałbrzych;Nowa;9;12;4
+5;1955;2023-07-01;Wrocław;Sportowa;15;1;5
+6;1478;2023-07-01;Wrocław;Słoneczna;19;16;6
+7;1658;2023-07-01;Wrocław;Szkolna;15;4;7
+8;777;2023-07-01;Wrocław;Królowej Jadwigi;14;5;8
+9;1948;2023-07-01;Gorzów Wielkopolski;Wyszyńskiego;10;3;9
+10;1306;2023-07-01;Racibórz;Mickiewicza;15;13;10
+11;1765;2023-07-01;Gorzów Wielkopolski;Wojska Polskiego;1;9;11
+12;1930;2023-07-01;Głogów;Olszynowa;8;7;12
+13;1030;2023-07-01;Wrocław;Królowej Jadwigi;19;15;13
+14;1793;2023-07-01;Wałbrzych;Piastowska;6;11;14
+15;983;2023-07-01;Wrocław;Piastowska;10;12;15
+16;996;2023-07-01;Głogów;Cicha;2;17;16
+17;566;2023-07-01;Jastrzębie-Zdrój;Łąkowa;17;5;17
+18;647;2023-07-01;Wrocław;Słoneczna;13;18;18
+19;1800;2023-07-01;Racibórz;Władysława IV;16;3;19
+20;1946;2023-07-01;Wrocław;Wiejska;10;18;20
+21;1833;2023-07-01;Racibórz;Długa;1;6;21
+22;677;2023-07-01;Jastrzębie-Zdrój;Kasztanowa;6;18;22
+23;1047;2023-07-01;Racibórz;Wojska Polskiego;4;2;23
+24;1143;2023-07-01;Wrocław;Jana Pawła II;2;15;24
+25;1668;2023-07-01;Gorzów Wielkopolski;Jana Pawła II;3;0;25
+26;1220;2023-07-01;Zielona Góra;Kwiatowa;13;16;26
+27;1636;2023-07-01;Legnica;Długa;15;13;27
+28;1731;2023-07-01;Jastrzębie-Zdrój;Sobieskiego;17;13;28
+29;956;2023-07-01;Legnica;Leśna;20;0;29
+30;667;2023-07-01;Gorzów Wielkopolski;Ogrodowa;15;1;30
+31;1502;2023-07-01;Opole;Mickiewicza;2;6;31
+32;1063;2023-07-01;Gorzów Wielkopolski;Lipowa;10;12;32
+33;1193;2023-07-01;Wałbrzych;Akacjowa;19;18;33
+34;1934;2023-07-01;Jastrzębie-Zdrój;Mazowiecka;2;11;34
+35;1182;2023-07-01;Zielona Góra;Władysława IV;8;6;35
+36;908;2023-07-01;Legnica;Władysława IV;8;7;36
+37;873;2023-07-01;Zielona Góra;Sportowa;6;19;37
+38;1214;2023-07-01;Legnica;Zamkowa;12;19;38
+39;993;2023-07-01;Wałbrzych;Spokojna;6;16;39
+40;925;2023-07-01;Zielona Góra;Sienkiewicza;16;5;40
+41;1023;2023-07-01;Wrocław;Kwiatowa;6;12;41
+42;1907;2023-07-01;Legnica;Sportowa;11;10;42
+43;1701;2023-07-01;Opole;Leśna;6;14;43
+44;1595;2023-07-01;Jastrzębie-Zdrój;Władysława IV;14;13;44
+45;1643;2023-07-01;Zielona Góra;Sikorskiego;16;15;45
+46;1299;2023-07-01;Jaworzno;Kopernika;10;4;46
+47;1315;2023-07-01;Opole;Klonowa;3;0;47
+48;771;2023-07-01;Wrocław;Nadrzeczna;3;9;48
+49;1281;2023-07-01;Głogów;Młyńska;5;13;49
+50;740;2023-07-01;Wrocław;Kopernika;2;3;50
+51;1965;2023-07-01;Gorzów Wielkopolski;Młyńska;15;11;51
+52;924;2023-07-01;Wałbrzych;Młyńska;9;7;52
+53;654;2023-07-01;Gorzów Wielkopolski;Władysława IV;19;18;53
+54;1427;2023-07-01;Wrocław;Słowackiego;15;4;54
+55;1551;2023-07-01;Głogów;Dworcowa;6;12;55
+56;1261;2023-07-01;Wrocław;Wąska;5;17;56
+57;992;2023-07-01;Opole;Wojska Polskiego;3;13;57
+58;1551;2023-07-01;Głogów;Lipowa;6;1;58
+59;1978;2023-07-01;Racibórz;Wolności;12;9;59
+60;1682;2023-07-01;Wrocław;Spokojna;3;4;60
+61;1094;2023-07-01;Jaworzno;Boczna;20;6;61
+62;1265;2023-07-01;Jaworzno;Miodowa;1;2;62
+63;972;2023-07-01;Racibórz;Kwiatowa;3;15;63
+64;739;2023-07-01;Jastrzębie-Zdrój;Długa;8;14;64
+65;1978;2023-07-01;Legnica;Różana;17;15;65
+66;1077;2023-07-01;Głogów;Długa;9;4;66
+67;1994;2023-07-01;Wałbrzych;Dworcowa;17;3;67
+68;1810;2023-07-01;Jaworzno;Wiejska;7;6;68
+69;1182;2023-07-01;Wrocław;Wiejska;16;13;69
+70;1587;2023-07-01;Gorzów Wielkopolski;Plac Wolności;6;14;70
+71;1394;2023-07-01;Opole;Cicha;2;7;71
+72;1290;2023-07-01;Głogów;Wojska Polskiego;20;14;72
+73;1478;2023-07-01;Wrocław;Lipowa;3;20;73
+74;1125;2023-07-01;Opole;Jana Pawła II;2;14;74
+75;1750;2023-07-01;Jastrzębie-Zdrój;Krótka;2;4;75
+76;559;2023-07-01;Głogów;Słoneczna;1;12;76
+77;1827;2023-07-01;Zielona Góra;Różana;4;4;77
+78;1939;2023-07-01;Racibórz;Młyńska;9;10;78
+79;657;2023-07-01;Jaworzno;Wesoła;10;17;79
+80;1118;2023-07-01;Głogów;Piastowska;19;12;80
+81;1774;2023-07-01;Głogów;Miodowa;9;1;81
+82;1411;2023-07-01;Gorzów Wielkopolski;Mazowiecka;2;10;82
+83;1288;2023-07-01;Głogów;Nowa;9;4;83
+84;524;2023-07-01;Głogów;Łąkowa;7;9;84
+85;1363;2023-07-01;Racibórz;Sikorskiego;8;0;85
+86;1390;2023-07-01;Opole;Długa;16;8;86
+87;536;2023-07-01;Opole;Kościuszki;15;17;87
+88;1879;2023-07-01;Wałbrzych;Wąska;11;14;88
+89;1008;2023-07-01;Legnica;Nowa;6;0;89
+90;1404;2023-07-01;Jaworzno;Boczna;10;9;90
+91;1917;2023-07-01;Jastrzębie-Zdrój;Szkolna;11;8;91
+92;1757;2023-07-01;Zielona Góra;Młyńska;13;11;92
+93;1404;2023-07-01;Wałbrzych;Nowa;18;5;93
+94;1822;2023-07-01;Gorzów Wielkopolski;Zamkowa;18;10;94
+95;709;2023-07-01;Opole;Leśna;3;16;95
+96;662;2023-07-01;Jastrzębie-Zdrój;Olszynowa;20;17;96
+97;1808;2023-07-01;Gorzów Wielkopolski;Nowa;1;17;97
+98;1815;2023-07-01;Opole;Kościuszki;6;8;98
+99;969;2023-07-01;Wałbrzych;Krakowska;19;0;99
+100;1935;2023-07-01;Zielona Góra;Wesoła;11;3;100
+101;1732;2023-07-01;Jaworzno;Boczna;20;8;101
+102;1058;2023-07-01;Zielona Góra;Spokojna;12;0;102
+103;1590;2023-07-01;Wrocław;Mickiewicza;20;14;103
+104;1934;2023-07-01;Legnica;Sobieskiego;15;18;104
+105;1232;2023-07-01;Głogów;Klonowa;12;10;105
+106;1079;2023-07-01;Jastrzębie-Zdrój;Kasprzaka;13;19;106
+107;1966;2023-07-01;Zielona Góra;Szkolna;5;14;107
+108;1553;2023-07-01;Legnica;Długa;2;5;108
+109;1605;2023-07-01;Wałbrzych;Młyńska;6;4;109
+110;1579;2023-07-01;Wrocław;Miodowa;20;14;110
+111;1069;2023-07-01;Jaworzno;Wesoła;15;13;111
+112;550;2023-07-01;Zielona Góra;Kościelna;10;19;112
+113;714;2023-07-01;Wrocław;Mazowiecka;2;18;113
+114;1897;2023-07-01;Zielona Góra;Królowej Jadwigi;1;10;114
+115;1267;2023-07-01;Racibórz;Paderewskiego;14;3;115
+116;1412;2023-07-01;Głogów;Sikorskiego;14;7;116
+117;634;2023-07-01;Opole;Rynek;17;11;117
+118;685;2023-07-01;Jaworzno;Wesoła;8;5;118
+119;1769;2023-07-01;Legnica;Mazowiecka;3;18;119
+120;695;2023-07-01;Wrocław;Kwiatowa;15;18;120
+121;1974;2023-07-01;Zielona Góra;Kościelna;2;16;121
+122;992;2023-07-01;Jaworzno;Nadrzeczna;5;18;122
+123;1136;2023-07-01;Gorzów Wielkopolski;Młyńska;18;2;123
+124;649;2023-07-01;Legnica;Krakowska;17;11;124
+125;1473;2023-07-01;Zielona Góra;Piastowska;7;17;125
+126;1845;2023-07-01;Jastrzębie-Zdrój;Krótka;6;3;126
+127;693;2023-07-01;Legnica;Sikorskiego;17;17;127
+128;954;2023-07-01;Wałbrzych;Kościuszki;20;5;128
+129;874;2023-07-01;Wrocław;Słoneczna;11;3;129
+130;639;2023-07-01;Opole;Słoneczna;19;16;130
+131;1172;2023-07-01;Zielona Góra;Miodowa;9;3;131
+132;703;2023-07-01;Gorzów Wielkopolski;Wojska Polskiego;18;10;132
+133;731;2023-07-01;Legnica;Kopernika;9;4;133
+134;606;2023-07-01;Opole;Boczna;5;13;134
+135;887;2023-07-01;Legnica;Plac Wolności;15;17;135
+136;1627;2023-07-01;Wrocław;Wyszyńskiego;14;14;136
+137;757;2023-07-01;Wałbrzych;Piastowska;19;18;137
+138;1910;2023-07-01;Wałbrzych;Krakowska;14;8;138
+139;1138;2023-07-01;Wrocław;Krakowska;13;11;139
+140;1267;2023-07-01;Opole;Krótka;19;8;140
+141;662;2023-07-01;Legnica;Wiejska;16;19;141
+142;517;2023-07-01;Wrocław;Ogrodowa;2;1;142
+143;957;2023-07-01;Jastrzębie-Zdrój;Miodowa;8;8;143
+144;948;2023-07-01;Gorzów Wielkopolski;Mazowiecka;17;14;144
+145;526;2023-07-01;Zielona Góra;Nowa;14;2;145
+146;797;2023-07-01;Wrocław;Mazowiecka;1;13;146
+147;1789;2023-07-01;Zielona Góra;Sportowa;2;7;147
+148;531;2023-07-01;Wrocław;Olszynowa;14;18;148
+149;720;2023-07-01;Racibórz;Kwiatowa;10;2;149
+150;1434;2023-07-01;Wrocław;Wiejska;1;6;150
+151;1160;2023-07-01;Głogów;Leśna;19;20;151
+152;1747;2023-07-01;Wałbrzych;Cicha;3;15;152
+153;1619;2023-07-01;Legnica;Młyńska;1;10;153
+154;1009;2023-07-01;Racibórz;Paderewskiego;8;13;154
+155;882;2023-07-01;Jaworzno;Sportowa;16;3;155
+156;1276;2023-07-01;Głogów;Ogrodowa;2;18;156
+157;1646;2023-07-01;Opole;Polna;14;12;157
+158;1933;2023-07-01;Jaworzno;Wolności;14;1;158
+159;1167;2023-07-01;Gorzów Wielkopolski;Lipowa;19;8;159
+160;1559;2023-07-01;Jastrzębie-Zdrój;Jana Pawła II;10;2;160
+161;641;2023-07-01;Wrocław;Wesoła;9;16;161
+162;972;2023-07-01;Racibórz;Królowej Jadwigi;4;17;162
+163;1474;2023-07-01;Jaworzno;Ogrodowa;15;8;163
+164;1251;2023-07-01;Jaworzno;Dworcowa;11;10;164
+165;993;2023-07-01;Wałbrzych;Sobieskiego;8;20;165
+166;1203;2023-07-01;Gorzów Wielkopolski;Kopernika;16;19;166
+167;530;2023-07-01;Jastrzębie-Zdrój;Polna;4;17;167
+168;1212;2023-07-01;Wrocław;Mickiewicza;14;10;168
+169;1154;2023-07-01;Zielona Góra;Boczna;12;13;169
+170;1657;2023-07-01;Jaworzno;Wąska;3;9;170
+171;1294;2023-07-01;Wałbrzych;Wolności;4;11;171
+172;1218;2023-07-01;Zielona Góra;Cicha;17;1;172
+173;1680;2023-07-01;Wrocław;Długa;7;20;173
+174;1459;2023-07-01;Głogów;Cicha;8;18;174
+175;1293;2023-07-01;Opole;Krótka;20;7;175
+176;912;2023-07-01;Racibórz;Zamkowa;15;17;176
+177;1754;2023-07-01;Gorzów Wielkopolski;Sikorskiego;10;14;177
+178;544;2023-07-01;Głogów;Paderewskiego;14;5;178
+179;579;2023-07-01;Jastrzębie-Zdrój;Sobieskiego;9;18;179
+180;1310;2023-07-01;Wałbrzych;Wąska;5;8;180
+181;911;2023-07-01;Zielona Góra;Zamkowa;1;6;181
+182;1257;2023-07-01;Jaworzno;Kasztanowa;20;19;182
+183;1582;2023-07-01;Opole;Sikorskiego;15;0;183
+184;1526;2023-07-01;Racibórz;Wyszyńskiego;20;2;184
+185;1882;2023-07-01;Jaworzno;Rynek;3;16;185
+186;1165;2023-07-01;Gorzów Wielkopolski;Sportowa;1;8;186
+187;889;2023-07-01;Wałbrzych;Kopernika;4;19;187
+188;779;2023-07-01;Racibórz;Spokojna;15;14;188
+189;1041;2023-07-01;Jastrzębie-Zdrój;Paderewskiego;2;20;189
+190;1049;2023-07-01;Jastrzębie-Zdrój;Słowackiego;16;1;190
+191;1295;2023-07-01;Gorzów Wielkopolski;Sienkiewicza;7;14;191
+192;1438;2023-07-01;Jaworzno;Wesoła;3;2;192
+193;1834;2023-07-01;Głogów;Plac Wolności;20;0;193
+194;823;2023-07-01;Legnica;Krótka;5;4;194
+195;1915;2023-07-01;Opole;Klonowa;3;20;195
+196;1658;2023-07-01;Gorzów Wielkopolski;Słoneczna;7;6;196
+197;1697;2023-07-01;Jastrzębie-Zdrój;Sobieskiego;13;12;197
+198;907;2023-07-01;Głogów;Młyńska;6;18;198
+199;1914;2023-07-01;Racibórz;Cicha;18;10;199
+200;755;2023-07-01;Racibórz;Mickiewicza;20;14;200
+201;1597;2023-07-01;Głogów;Sobieskiego;20;16;201
+202;1482;2023-07-01;Jaworzno;Krakowska;5;7;202
+203;1141;2023-07-01;Opole;Leśna;8;2;203
+204;614;2023-07-01;Głogów;Piastowska;5;14;204
+205;970;2023-07-01;Opole;Mazowiecka;5;7;205
+206;712;2023-07-01;Legnica;Cicha;16;19;206
+207;563;2023-07-01;Opole;Paderewskiego;6;2;207
+208;1675;2023-07-01;Wałbrzych;Królowej Jadwigi;4;15;208
+209;503;2023-07-01;Gorzów Wielkopolski;Jana Pawła II;5;0;209
+210;570;2023-07-01;Zielona Góra;Krakowska;7;20;210
+211;1381;2023-07-01;Jastrzębie-Zdrój;Jana Pawła II;13;20;211
+212;741;2023-07-01;Głogów;Słoneczna;7;18;212
+213;1799;2023-07-01;Jastrzębie-Zdrój;Mazowiecka;4;2;213
+214;1761;2023-07-01;Jaworzno;Młyńska;16;13;214
+215;1451;2023-07-01;Wałbrzych;Lipowa;7;11;215
+216;808;2023-07-01;Legnica;Kościuszki;18;17;216
+217;718;2023-07-01;Jastrzębie-Zdrój;Sportowa;16;4;217
+218;1653;2023-07-01;Legnica;Łąkowa;20;7;218
+219;998;2023-07-01;Wałbrzych;Jana Pawła II;5;14;219
+220;1735;2023-07-01;Jaworzno;Słoneczna;2;8;220
+221;1762;2023-07-01;Racibórz;Krótka;4;0;221
+222;675;2023-07-01;Zielona Góra;Olszynowa;17;12;222
+223;1437;2023-07-01;Wałbrzych;Cicha;2;9;223
+224;1581;2023-07-01;Wrocław;Klonowa;13;10;224
+225;1753;2023-07-01;Wałbrzych;Olszynowa;7;20;225
+226;772;2023-07-01;Głogów;Miodowa;6;3;226
+227;1556;2023-07-01;Jastrzębie-Zdrój;Lipowa;8;20;227
+228;1999;2023-07-01;Wałbrzych;Piastowska;5;17;228
+229;1115;2023-07-01;Zielona Góra;Miodowa;2;9;229
+230;1912;2023-07-01;Zielona Góra;Słoneczna;12;0;230
+231;1738;2023-07-01;Głogów;Kopernika;2;4;231
+232;581;2023-07-01;Wrocław;Wąska;16;14;232
+233;1705;2023-07-01;Opole;Wesoła;18;19;233
+234;1707;2023-07-01;Jastrzębie-Zdrój;Wesoła;4;4;234
+235;1830;2023-07-01;Zielona Góra;Boczna;3;17;235
+236;1792;2023-07-01;Jastrzębie-Zdrój;Sikorskiego;3;12;236
+237;584;2023-07-01;Opole;Plac Wolności;7;13;237
+238;1968;2023-07-01;Gorzów Wielkopolski;Kasprzaka;2;5;238
+239;932;2023-07-01;Zielona Góra;Sienkiewicza;10;12;239
+240;583;2023-07-01;Głogów;Mickiewicza;18;13;240
+241;971;2023-07-01;Jaworzno;Mickiewicza;19;7;241
+242;915;2023-07-01;Głogów;Krakowska;15;16;242
+243;1154;2023-07-01;Wrocław;Krakowska;17;5;243
+244;1853;2023-07-01;Legnica;Mazowiecka;14;5;244
+245;1571;2023-07-01;Jaworzno;Leśna;9;1;245
+246;1184;2023-07-01;Legnica;Polna;16;7;246
+247;919;2023-07-01;Racibórz;Szkolna;3;3;247
+248;1335;2023-07-01;Jastrzębie-Zdrój;Wesoła;9;12;248
+249;1524;2023-07-01;Legnica;Polna;7;17;249
+250;620;2023-07-01;Legnica;Cicha;20;0;250
+251;1539;2023-07-01;Jaworzno;Sobieskiego;11;20;251
+252;915;2023-07-01;Legnica;Wąska;15;5;252
+253;771;2023-07-01;Gorzów Wielkopolski;Krakowska;4;2;253
+254;733;2023-07-01;Jastrzębie-Zdrój;Sienkiewicza;7;18;254
+255;1835;2023-07-01;Racibórz;Spokojna;16;11;255
+256;665;2023-07-01;Racibórz;Sportowa;13;9;256
+257;1531;2023-07-01;Jastrzębie-Zdrój;Spokojna;7;1;257
+258;901;2023-07-01;Opole;Mazowiecka;11;0;258
+259;518;2023-07-01;Wrocław;Nowa;11;19;259
+260;1531;2023-07-01;Głogów;Boczna;2;9;260
+261;1992;2023-07-01;Jaworzno;Młyńska;17;2;261
+262;1681;2023-07-01;Zielona Góra;Młyńska;1;3;262
+263;1053;2023-07-01;Wałbrzych;Spokojna;18;15;263
+264;801;2023-07-01;Jastrzębie-Zdrój;Jana Pawła II;11;18;264
+265;1198;2023-07-01;Jastrzębie-Zdrój;Wojska Polskiego;3;17;265
+266;1763;2023-07-01;Jaworzno;Zamkowa;16;10;266
+267;546;2023-07-01;Zielona Góra;Kwiatowa;19;8;267
+268;1883;2023-07-01;Wrocław;Lipowa;6;6;268
+269;788;2023-07-01;Opole;Młyńska;6;11;269
+270;1734;2023-07-01;Wrocław;Wyszyńskiego;16;2;270
+271;1796;2023-07-01;Legnica;Spokojna;14;12;271
+272;1875;2023-07-01;Gorzów Wielkopolski;Młyńska;10;18;272
+273;1610;2023-07-01;Legnica;Mickiewicza;11;1;273
+274;530;2023-07-01;Głogów;Krótka;5;15;274
+275;798;2023-07-01;Głogów;Szkolna;18;6;275
+276;699;2023-07-01;Jastrzębie-Zdrój;Wojska Polskiego;3;6;276
+277;997;2023-07-01;Jaworzno;Plac Wolności;11;19;277
+278;783;2023-07-01;Zielona Góra;Szkolna;3;5;278
+279;955;2023-07-01;Wałbrzych;Wesoła;10;12;279
+280;1472;2023-07-01;Wrocław;Cicha;5;14;280
+281;1357;2023-07-01;Opole;Władysława IV;9;15;281
+282;1534;2023-07-01;Zielona Góra;Akacjowa;10;6;282
+283;570;2023-07-01;Legnica;Sobieskiego;17;3;283
+284;1862;2023-07-01;Legnica;Władysława IV;19;4;284
+285;732;2023-07-01;Opole;Polna;12;14;285
+286;718;2023-07-01;Wrocław;Piastowska;11;0;286
+287;1171;2023-07-01;Jaworzno;Władysława IV;12;19;287
+288;1430;2023-07-01;Gorzów Wielkopolski;Kasztanowa;6;8;288
+289;1258;2023-07-01;Zielona Góra;Kopernika;19;15;289
+290;1609;2023-07-01;Jastrzębie-Zdrój;Klonowa;13;20;290
+291;1732;2023-07-01;Racibórz;Mickiewicza;16;10;291
+292;1956;2023-07-01;Racibórz;Nowa;5;15;292
+293;590;2023-07-01;Racibórz;Olszynowa;5;19;293
+294;1839;2023-07-01;Głogów;Spokojna;12;10;294
+295;683;2023-07-01;Jaworzno;Lipowa;5;1;295
+296;703;2023-07-01;Jastrzębie-Zdrój;Królowej Jadwigi;1;0;296
+297;1558;2023-07-01;Legnica;Mickiewicza;2;12;297
+298;884;2023-07-01;Głogów;Wyszyńskiego;14;19;298
+299;764;2023-07-01;Jaworzno;Piastowska;12;20;299
+300;1901;2023-07-01;Wrocław;Miodowa;16;6;300
+301;1287;2023-07-01;Opole;Ogrodowa;5;7;301
+302;1001;2023-07-01;Wrocław;Królowej Jadwigi;12;2;302
+303;1224;2023-07-01;Jaworzno;Mazowiecka;10;8;303
+304;1806;2023-07-01;Jastrzębie-Zdrój;Władysława IV;2;1;304
+305;1462;2023-07-01;Racibórz;Piastowska;9;11;305
+306;1693;2023-07-01;Zielona Góra;Kasprzaka;18;0;306
+307;1769;2023-07-01;Gorzów Wielkopolski;Młyńska;13;13;307
+308;1402;2023-07-01;Jaworzno;Nowa;5;19;308
+309;1359;2023-07-01;Zielona Góra;Mazowiecka;13;1;309
+310;1284;2023-07-01;Jastrzębie-Zdrój;Klonowa;6;14;310
+311;1571;2023-07-01;Wrocław;Kopernika;9;2;311
+312;1817;2023-07-01;Racibórz;Olszynowa;3;3;312
+313;1578;2023-07-01;Legnica;Rynek;8;3;313
+314;1076;2023-07-01;Opole;Wąska;13;18;314
+315;1627;2023-07-01;Głogów;Spokojna;18;3;315
+316;1453;2023-07-01;Opole;Cicha;20;10;316
+317;1904;2023-07-01;Głogów;Różana;6;4;317
+318;1487;2023-07-01;Legnica;Krótka;20;1;318
+319;1763;2023-07-01;Racibórz;Dworcowa;6;3;319
+320;1648;2023-07-01;Jaworzno;Władysława IV;16;3;320
+321;566;2023-07-01;Głogów;Leśna;19;18;321
+322;566;2023-07-01;Racibórz;Rynek;10;14;322
+323;1356;2023-07-01;Wałbrzych;Łąkowa;14;4;323
+324;859;2023-07-01;Jaworzno;Kościuszki;10;18;324
+325;1934;2023-07-01;Głogów;Władysława IV;14;17;325
+326;1080;2023-07-01;Racibórz;Miodowa;1;7;326
+327;1314;2023-07-01;Jastrzębie-Zdrój;Sobieskiego;20;11;327
+328;812;2023-07-01;Głogów;Sikorskiego;19;9;328
+329;1115;2023-07-01;Gorzów Wielkopolski;Wolności;5;15;329
+330;541;2023-07-01;Jaworzno;Dworcowa;13;9;330
+331;1372;2023-07-01;Jastrzębie-Zdrój;Kościuszki;10;2;331
+332;1377;2023-07-01;Legnica;Dworcowa;9;7;332
+333;1825;2023-07-01;Gorzów Wielkopolski;Wolności;2;11;333
+334;1491;2023-07-01;Wrocław;Sikorskiego;13;20;334
+335;1163;2023-07-01;Racibórz;Rynek;10;8;335
+336;1534;2023-07-01;Wałbrzych;Kopernika;9;19;336
+337;1541;2023-07-01;Jastrzębie-Zdrój;Dworcowa;3;0;337
+338;1148;2023-07-01;Głogów;Akacjowa;19;19;338
+339;1643;2023-07-01;Wałbrzych;Dworcowa;14;11;339
+340;1857;2023-07-01;Racibórz;Dworcowa;4;3;340
+341;1296;2023-07-01;Jastrzębie-Zdrój;Wiejska;15;16;341
+342;783;2023-07-01;Wrocław;Łąkowa;10;17;342
+343;1128;2023-07-01;Gorzów Wielkopolski;Ogrodowa;7;16;343
+344;919;2023-07-01;Gorzów Wielkopolski;Mickiewicza;16;0;344
+345;839;2023-07-01;Legnica;Kasprzaka;5;12;345
+346;1798;2023-07-01;Racibórz;Boczna;19;5;346
+347;1849;2023-07-01;Jastrzębie-Zdrój;Wiejska;11;20;347
+348;1571;2023-07-01;Głogów;Kościuszki;19;19;348
+349;911;2023-07-01;Wrocław;Nadrzeczna;7;20;349
+350;1605;2023-07-01;Zielona Góra;Olszynowa;3;18;350
+351;1126;2023-07-01;Wałbrzych;Lipowa;9;20;351
+352;823;2023-07-01;Wałbrzych;Lipowa;15;19;352
+353;1042;2023-07-01;Zielona Góra;Różana;4;13;353
+354;1116;2023-07-01;Opole;Krótka;15;10;354
+355;591;2023-07-01;Jastrzębie-Zdrój;Wesoła;5;5;355
+356;642;2023-07-01;Gorzów Wielkopolski;Młyńska;10;19;356
+357;793;2023-07-01;Jaworzno;Akacjowa;12;13;357
+358;894;2023-07-01;Opole;Rynek;1;16;358
+359;545;2023-07-01;Racibórz;Sobieskiego;14;17;359
+360;1245;2023-07-01;Głogów;Zamkowa;13;9;360
+361;1301;2023-07-01;Zielona Góra;Jana Pawła II;18;15;361
+362;829;2023-07-01;Gorzów Wielkopolski;Polna;3;15;362
+363;1367;2023-07-01;Zielona Góra;Władysława IV;8;11;363
+364;1113;2023-07-01;Racibórz;Spokojna;8;8;364
+365;914;2023-07-01;Głogów;Krakowska;17;14;365
+366;1644;2023-07-01;Zielona Góra;Piastowska;11;6;366
+367;1747;2023-07-01;Jastrzębie-Zdrój;Kasprzaka;20;19;367
+368;1395;2023-07-01;Opole;Kopernika;17;0;368
+369;1945;2023-07-01;Gorzów Wielkopolski;Mazowiecka;5;4;369
+370;1185;2023-07-01;Zielona Góra;Krakowska;10;17;370
+371;937;2023-07-01;Gorzów Wielkopolski;Kościelna;12;13;371
+372;724;2023-07-01;Zielona Góra;Słowackiego;20;11;372
+373;1733;2023-07-01;Opole;Boczna;19;18;373
+374;2000;2023-07-01;Wrocław;Wyszyńskiego;13;10;374
+375;824;2023-07-01;Jaworzno;Kościuszki;18;12;375
+376;1462;2023-07-01;Opole;Mickiewicza;19;4;376
+377;1683;2023-07-01;Legnica;Polna;12;9;377
+378;715;2023-07-01;Zielona Góra;Krótka;20;15;378
+379;950;2023-07-01;Zielona Góra;Władysława IV;6;12;379
+380;1615;2023-07-01;Wrocław;Kasztanowa;12;15;380
+381;1640;2023-07-01;Jaworzno;Boczna;11;5;381
+382;849;2023-07-01;Gorzów Wielkopolski;Miodowa;11;4;382
+383;1587;2023-07-01;Jaworzno;Cicha;18;19;383
+384;1481;2023-07-01;Legnica;Jana Pawła II;20;12;384
+385;1493;2023-07-01;Legnica;Dworcowa;17;13;385
+386;934;2023-07-01;Legnica;Paderewskiego;10;3;386
+387;1313;2023-07-01;Zielona Góra;Krótka;5;7;387
+388;1114;2023-07-01;Legnica;Zamkowa;10;17;388
+389;603;2023-07-01;Jaworzno;Plac Wolności;14;7;389
+390;1898;2023-07-01;Legnica;Mickiewicza;18;3;390
+391;1614;2023-07-01;Jaworzno;Dworcowa;2;19;391
+392;1682;2023-07-01;Jaworzno;Wojska Polskiego;19;2;392
+393;1160;2023-07-01;Zielona Góra;Rynek;1;5;393
+394;1777;2023-07-01;Jaworzno;Spokojna;9;10;394
+395;750;2023-07-01;Opole;Kościelna;4;6;395
+396;906;2023-07-01;Racibórz;Akacjowa;20;12;396
+397;568;2023-07-01;Zielona Góra;Kasztanowa;10;10;397
+398;1642;2023-07-01;Racibórz;Władysława IV;4;0;398
+399;1242;2023-07-01;Legnica;Różana;1;1;399
+400;1687;2023-07-01;Gorzów Wielkopolski;Kasprzaka;2;12;400
+401;1121;2023-07-01;Racibórz;Kwiatowa;5;16;401
+402;1737;2023-07-01;Wałbrzych;Kwiatowa;7;3;402
+403;891;2023-07-01;Zielona Góra;Łąkowa;10;0;403
+404;608;2023-07-01;Opole;Jana Pawła II;4;6;404
+405;1538;2023-07-01;Gorzów Wielkopolski;Długa;6;18;405
+406;1619;2023-07-01;Racibórz;Kasprzaka;17;3;406
+407;1694;2023-07-01;Gorzów Wielkopolski;Sobieskiego;17;17;407
+408;617;2023-07-01;Opole;Władysława IV;2;9;408
+409;1848;2023-07-01;Jastrzębie-Zdrój;Królowej Jadwigi;20;2;409
+410;1212;2023-07-01;Opole;Lipowa;18;10;410
+411;1508;2023-07-01;Gorzów Wielkopolski;Dworcowa;2;17;411
+412;1739;2023-07-01;Legnica;Sobieskiego;19;9;412
+413;798;2023-07-01;Jaworzno;Mazowiecka;17;0;413
+414;980;2023-07-01;Jaworzno;Olszynowa;10;10;414
+415;1093;2023-07-01;Zielona Góra;Miodowa;15;10;415
+416;638;2023-07-01;Racibórz;Ogrodowa;14;18;416
+417;690;2023-07-01;Zielona Góra;Plac Wolności;19;1;417
+418;564;2023-07-01;Jaworzno;Mazowiecka;11;15;418
+419;600;2023-07-01;Głogów;Plac Wolności;19;12;419
+420;972;2023-07-01;Racibórz;Miodowa;19;8;420
+421;1781;2023-07-01;Gorzów Wielkopolski;Łąkowa;13;18;421
+422;1223;2023-07-01;Wrocław;Wesoła;1;4;422
+423;1928;2023-07-01;Jastrzębie-Zdrój;Lipowa;11;16;423
+424;1801;2023-07-01;Racibórz;Akacjowa;17;7;424
+425;592;2023-07-01;Opole;Boczna;6;16;425
+426;1679;2023-07-01;Opole;Zamkowa;8;13;426
+427;1488;2023-07-01;Jaworzno;Władysława IV;18;9;427
+428;1434;2023-07-01;Głogów;Sobieskiego;19;5;428
+429;1652;2023-07-01;Zielona Góra;Wąska;3;2;429
+430;1978;2023-07-01;Opole;Jana Pawła II;15;10;430
+431;1485;2023-07-01;Wrocław;Kasprzaka;19;8;431
+432;813;2023-07-01;Głogów;Jana Pawła II;14;2;432
+433;931;2023-07-01;Zielona Góra;Wolności;1;19;433
+434;1412;2023-07-01;Zielona Góra;Cicha;14;15;434
+435;1619;2023-07-01;Jaworzno;Nowa;15;10;435
+436;1392;2023-07-01;Opole;Krótka;16;4;436
+437;841;2023-07-01;Gorzów Wielkopolski;Jana Pawła II;16;5;437
+438;1592;2023-07-01;Legnica;Słoneczna;18;12;438
+439;1329;2023-07-01;Głogów;Kasztanowa;3;19;439
+440;1910;2023-07-01;Jastrzębie-Zdrój;Wojska Polskiego;11;5;440
+441;1376;2023-07-01;Wałbrzych;Kwiatowa;2;9;441
+442;829;2023-07-01;Legnica;Wesoła;10;19;442
+443;1073;2023-07-01;Zielona Góra;Polna;13;10;443
+444;1317;2023-07-01;Opole;Sobieskiego;2;1;444
+445;978;2023-07-01;Wrocław;Miodowa;2;19;445
+446;953;2023-07-01;Zielona Góra;Wesoła;10;19;446
+447;969;2023-07-01;Wałbrzych;Zamkowa;3;13;447
+448;959;2023-07-01;Legnica;Wesoła;14;8;448
+449;1660;2023-07-01;Opole;Władysława IV;5;11;449
+450;681;2023-07-01;Jastrzębie-Zdrój;Sienkiewicza;17;18;450
+451;956;2023-07-01;Wałbrzych;Krakowska;12;20;451
+452;958;2023-07-01;Racibórz;Wojska Polskiego;2;9;452
+453;1421;2023-07-01;Głogów;Wąska;3;13;453
+454;968;2023-07-01;Racibórz;Władysława IV;16;0;454
+455;1292;2023-07-01;Jastrzębie-Zdrój;Wąska;5;4;455
+456;805;2023-07-01;Gorzów Wielkopolski;Dworcowa;13;2;456
+457;1172;2023-07-01;Głogów;Akacjowa;5;11;457
+458;1417;2023-07-01;Jaworzno;Klonowa;4;1;458
+459;1953;2023-07-01;Jaworzno;Kopernika;3;18;459
+460;1034;2023-07-01;Gorzów Wielkopolski;Królowej Jadwigi;19;19;460
+461;1715;2023-07-01;Zielona Góra;Sobieskiego;3;16;461
+462;777;2023-07-01;Jaworzno;Kopernika;3;17;462
+463;1846;2023-07-01;Wałbrzych;Słoneczna;16;4;463
+464;598;2023-07-01;Jaworzno;Szkolna;7;5;464
+465;1546;2023-07-01;Opole;Nowa;12;9;465
+466;1777;2023-07-01;Gorzów Wielkopolski;Krakowska;3;6;466
+467;1805;2023-07-01;Jastrzębie-Zdrój;Słoneczna;7;14;467
+468;1994;2023-07-01;Legnica;Łąkowa;4;2;468
+469;1282;2023-07-01;Gorzów Wielkopolski;Sikorskiego;14;17;469
+470;609;2023-07-01;Opole;Lipowa;10;19;470
+471;1669;2023-07-01;Jastrzębie-Zdrój;Krótka;2;10;471
+472;1893;2023-07-01;Wrocław;Krótka;4;10;472
+473;1949;2023-07-01;Wrocław;Łąkowa;18;18;473
+474;1249;2023-07-01;Wałbrzych;Cicha;19;5;474
+475;843;2023-07-01;Legnica;Młyńska;17;2;475
+476;1461;2023-07-01;Głogów;Młyńska;9;8;476
+477;1201;2023-07-01;Wałbrzych;Młyńska;8;17;477
+478;836;2023-07-01;Jaworzno;Królowej Jadwigi;5;4;478
+479;1245;2023-07-01;Zielona Góra;Piastowska;2;16;479
+480;1446;2023-07-01;Gorzów Wielkopolski;Leśna;12;11;480
+481;1374;2023-07-01;Gorzów Wielkopolski;Krakowska;8;20;481
+482;1615;2023-07-01;Głogów;Ogrodowa;2;11;482
+483;1609;2023-07-01;Wrocław;Różana;4;0;483
+484;1455;2023-07-01;Głogów;Władysława IV;20;10;484
+485;1746;2023-07-01;Wrocław;Zamkowa;13;3;485
+486;1542;2023-07-01;Zielona Góra;Kościuszki;12;11;486
+487;591;2023-07-01;Legnica;Kościuszki;7;1;487
+488;889;2023-07-01;Gorzów Wielkopolski;Różana;7;19;488
+489;1362;2023-07-01;Opole;Łąkowa;5;13;489
+490;1946;2023-07-01;Wrocław;Kasprzaka;14;10;490
+491;672;2023-07-01;Głogów;Kasprzaka;20;17;491
+492;1918;2023-07-01;Jastrzębie-Zdrój;Lipowa;20;6;492
+493;1650;2023-07-01;Jaworzno;Mazowiecka;8;6;493
+494;1386;2023-07-01;Wałbrzych;Paderewskiego;17;20;494
+495;699;2023-07-01;Wałbrzych;Szkolna;5;3;495
+496;1150;2023-07-01;Wałbrzych;Wojska Polskiego;11;18;496
+497;1884;2023-07-01;Jaworzno;Akacjowa;2;3;497
+498;624;2023-07-01;Opole;Dworcowa;8;15;498
+499;1564;2023-07-01;Legnica;Dworcowa;2;18;499
+500;514;2023-07-01;Jaworzno;Akacjowa;13;13;500
+501;1767;2023-07-01;Wrocław;Wojska Polskiego;3;0;501
+502;1984;2023-07-01;Jaworzno;Nadrzeczna;6;2;502
+503;1282;2023-07-01;Jaworzno;Władysława IV;2;2;503
+504;1098;2023-07-01;Gorzów Wielkopolski;Leśna;12;14;504
+505;1483;2023-07-01;Głogów;Dworcowa;20;2;505
+506;1883;2023-07-01;Gorzów Wielkopolski;Łąkowa;13;18;506
+507;1645;2023-07-01;Wałbrzych;Krótka;12;3;507
+508;549;2023-07-01;Gorzów Wielkopolski;Władysława IV;2;2;508
+509;1143;2023-07-01;Wałbrzych;Rynek;2;13;509
+510;1663;2023-07-01;Jaworzno;Łąkowa;2;3;510
+511;1602;2023-07-01;Jastrzębie-Zdrój;Leśna;19;1;511
+512;626;2023-07-01;Wrocław;Mickiewicza;19;20;512
+513;600;2023-07-01;Głogów;Władysława IV;13;14;513
+514;982;2023-07-01;Jaworzno;Boczna;14;17;514
+515;1027;2023-07-01;Legnica;Wojska Polskiego;17;18;515
+516;929;2023-07-01;Jaworzno;Kasztanowa;8;8;516
+517;1598;2023-07-01;Opole;Boczna;14;14;517
+518;1529;2023-07-01;Jastrzębie-Zdrój;Mickiewicza;15;12;518
+519;1321;2023-07-01;Wałbrzych;Jana Pawła II;19;5;519
+520;1960;2023-07-01;Zielona Góra;Akacjowa;6;13;520
+521;890;2023-07-01;Opole;Miodowa;15;18;521
+522;930;2023-07-01;Opole;Wąska;12;12;522
+523;1712;2023-07-01;Gorzów Wielkopolski;Różana;7;10;523
+524;1485;2023-07-01;Opole;Zamkowa;7;16;524
+525;1352;2023-07-01;Głogów;Królowej Jadwigi;7;12;525
+526;1068;2023-07-01;Zielona Góra;Kościelna;1;18;526
+527;982;2023-07-01;Głogów;Nowa;15;13;527
+528;1499;2023-07-01;Głogów;Zamkowa;1;7;528
+529;1348;2023-07-01;Głogów;Nadrzeczna;5;7;529
+530;748;2023-07-01;Jaworzno;Wiejska;10;12;530
+531;811;2023-07-01;Racibórz;Kasztanowa;5;15;531
+532;564;2023-07-01;Gorzów Wielkopolski;Polna;9;15;532
+533;741;2023-07-01;Zielona Góra;Sportowa;15;10;533
+534;1188;2023-07-01;Racibórz;Władysława IV;17;3;534
+535;1301;2023-07-01;Jaworzno;Kwiatowa;5;6;535
+536;1884;2023-07-01;Wałbrzych;Klonowa;5;16;536
+537;1906;2023-07-01;Zielona Góra;Paderewskiego;13;16;537
+538;1757;2023-07-01;Wałbrzych;Plac Wolności;9;9;538
+539;783;2023-07-01;Jastrzębie-Zdrój;Kościuszki;17;1;539
+540;1797;2023-07-01;Wałbrzych;Sienkiewicza;10;16;540
+541;1173;2023-07-01;Jaworzno;Królowej Jadwigi;18;13;541
+542;1202;2023-07-01;Jaworzno;Łąkowa;16;17;542
+543;1272;2023-07-01;Racibórz;Długa;18;20;543
+544;630;2023-07-01;Racibórz;Kasprzaka;18;14;544
+545;1830;2023-07-01;Jastrzębie-Zdrój;Szkolna;6;8;545
+546;525;2023-07-01;Racibórz;Lipowa;1;19;546
+547;604;2023-07-01;Wrocław;Spokojna;9;11;547
+548;555;2023-07-01;Legnica;Krótka;13;17;548
+549;1473;2023-07-01;Wałbrzych;Wolności;17;3;549
+550;1560;2023-07-01;Racibórz;Klonowa;12;15;550
+551;514;2023-07-01;Wrocław;Szkolna;16;17;551
+552;1946;2023-07-01;Gorzów Wielkopolski;Kasztanowa;6;7;552
+553;1323;2023-07-01;Zielona Góra;Krótka;18;10;553
+554;1434;2023-07-01;Opole;Polna;7;11;554
+555;1980;2023-07-01;Racibórz;Miodowa;14;3;555
+556;685;2023-07-01;Zielona Góra;Piastowska;17;9;556
+557;569;2023-07-01;Legnica;Nadrzeczna;13;19;557
+558;1181;2023-07-01;Jastrzębie-Zdrój;Sobieskiego;12;5;558
+559;1216;2023-07-01;Wałbrzych;Sienkiewicza;16;14;559
+560;686;2023-07-01;Jastrzębie-Zdrój;Paderewskiego;14;0;560
+561;1282;2023-07-01;Zielona Góra;Wojska Polskiego;15;13;561
+562;905;2023-07-01;Racibórz;Plac Wolności;9;1;562
+563;754;2023-07-01;Głogów;Wiejska;4;7;563
+564;1178;2023-07-01;Legnica;Kasprzaka;1;5;564
+565;906;2023-07-01;Gorzów Wielkopolski;Młyńska;17;4;565
+566;1639;2023-07-01;Gorzów Wielkopolski;Długa;8;0;566
+567;1454;2023-07-01;Zielona Góra;Kościuszki;2;15;567
+568;1343;2023-07-01;Gorzów Wielkopolski;Długa;8;5;568
+569;1277;2023-07-01;Głogów;Długa;16;4;569
+570;1007;2023-07-01;Wrocław;Rynek;8;11;570
+571;1565;2023-07-01;Wrocław;Krótka;7;0;571
+572;1580;2023-07-01;Jastrzębie-Zdrój;Olszynowa;7;2;572
+573;1877;2023-07-01;Gorzów Wielkopolski;Nadrzeczna;18;8;573
+574;1684;2023-07-01;Zielona Góra;Sobieskiego;5;3;574
+575;1710;2023-07-01;Wałbrzych;Boczna;9;14;575
+576;1094;2023-07-01;Jaworzno;Młyńska;6;13;576
+577;1312;2023-07-01;Opole;Nadrzeczna;19;9;577
+578;1418;2023-07-01;Wrocław;Nowa;20;19;578
+579;1041;2023-07-01;Legnica;Spokojna;2;1;579
+580;1337;2023-07-01;Zielona Góra;Kasprzaka;17;9;580
+581;1436;2023-07-01;Zielona Góra;Boczna;2;12;581
+582;1224;2023-07-01;Jastrzębie-Zdrój;Słowackiego;6;13;582
+583;1603;2023-07-01;Wałbrzych;Sienkiewicza;1;7;583
+584;1289;2023-07-01;Legnica;Klonowa;2;3;584
+585;1772;2023-07-01;Wałbrzych;Rynek;9;17;585
+586;1598;2023-07-01;Wrocław;Kopernika;5;17;586
+587;1620;2023-07-01;Jaworzno;Wolności;20;6;587
+588;1951;2023-07-01;Wrocław;Spokojna;16;14;588
+589;1219;2023-07-01;Opole;Wiejska;9;3;589
+590;1261;2023-07-01;Zielona Góra;Kościuszki;3;1;590
+591;1715;2023-07-01;Gorzów Wielkopolski;Cicha;14;12;591
+592;508;2023-07-01;Głogów;Wyszyńskiego;9;19;592
+593;1616;2023-07-01;Jastrzębie-Zdrój;Władysława IV;7;3;593
+594;1090;2023-07-01;Wrocław;Wesoła;13;13;594
+595;1708;2023-07-01;Wałbrzych;Akacjowa;2;6;595
+596;1169;2023-07-01;Racibórz;Sienkiewicza;4;2;596
+597;1273;2023-07-01;Wałbrzych;Szkolna;11;17;597
+598;1069;2023-07-01;Zielona Góra;Wąska;20;7;598
+599;1121;2023-07-01;Jastrzębie-Zdrój;Sobieskiego;12;20;599
+600;1501;2023-07-01;Wrocław;Słowackiego;6;0;600
+601;1348;2023-07-01;Zielona Góra;Sobieskiego;18;1;601
+602;1794;2023-07-01;Jaworzno;Sportowa;4;7;602
+603;1159;2023-07-01;Legnica;Słoneczna;16;0;603
+604;732;2023-07-01;Opole;Mazowiecka;6;18;604
+605;625;2023-07-01;Jastrzębie-Zdrój;Piastowska;17;16;605
+606;995;2023-07-01;Głogów;Kwiatowa;11;4;606
+607;1951;2023-07-01;Racibórz;Królowej Jadwigi;13;4;607
+608;915;2023-07-01;Opole;Kościuszki;8;0;608
+609;1531;2023-07-01;Gorzów Wielkopolski;Polna;10;12;609
+610;1466;2023-07-01;Jaworzno;Mickiewicza;7;8;610
+611;1560;2023-07-01;Zielona Góra;Krótka;3;10;611
+612;1623;2023-07-01;Jaworzno;Wesoła;19;7;612
+613;1729;2023-07-01;Racibórz;Ogrodowa;16;2;613
+614;884;2023-07-01;Głogów;Kasztanowa;1;7;614
+615;1517;2023-07-01;Głogów;Kopernika;14;10;615
+616;1052;2023-07-01;Zielona Góra;Rynek;1;18;616
+617;946;2023-07-01;Legnica;Polna;13;15;617
+618;1517;2023-07-01;Wałbrzych;Paderewskiego;8;0;618
+619;1139;2023-07-01;Głogów;Mazowiecka;10;8;619
+620;1354;2023-07-01;Legnica;Kościuszki;5;4;620
+621;1728;2023-07-01;Legnica;Wojska Polskiego;20;13;621
+622;1977;2023-07-01;Legnica;Mazowiecka;1;8;622
+623;685;2023-07-01;Racibórz;Cicha;8;3;623
+624;770;2023-07-01;Gorzów Wielkopolski;Ogrodowa;4;3;624
+625;748;2023-07-01;Legnica;Cicha;13;17;625
+626;916;2023-07-01;Racibórz;Leśna;15;1;626
+627;1889;2023-07-01;Gorzów Wielkopolski;Sportowa;10;0;627
+628;1958;2023-07-01;Wałbrzych;Olszynowa;11;8;628
+629;1989;2023-07-01;Racibórz;Długa;19;7;629
+630;1551;2023-07-01;Legnica;Kasprzaka;5;1;630
+631;553;2023-07-01;Racibórz;Dworcowa;14;3;631
+632;1613;2023-07-01;Głogów;Krakowska;10;3;632
+633;1573;2023-07-01;Racibórz;Szkolna;12;1;633
+634;644;2023-07-01;Racibórz;Królowej Jadwigi;9;0;634
+635;1769;2023-07-01;Wałbrzych;Szkolna;17;12;635
+636;1913;2023-07-01;Wałbrzych;Piastowska;19;11;636
+637;1295;2023-07-01;Jaworzno;Akacjowa;18;1;637
+638;1067;2023-07-01;Zielona Góra;Mazowiecka;13;4;638
+639;1074;2023-07-01;Opole;Ogrodowa;12;19;639
+640;626;2023-07-01;Opole;Łąkowa;10;18;640
+641;770;2023-07-01;Jastrzębie-Zdrój;Długa;1;5;641
+642;1624;2023-07-01;Jaworzno;Cicha;14;7;642
+643;1878;2023-07-01;Racibórz;Kasprzaka;16;12;643
+644;707;2023-07-01;Racibórz;Olszynowa;15;17;644
+645;602;2023-07-01;Wałbrzych;Wąska;10;12;645
+646;504;2023-07-01;Jaworzno;Ogrodowa;9;15;646
+647;1151;2023-07-01;Wrocław;Kościuszki;18;2;647
+648;662;2023-07-01;Jaworzno;Wolności;17;6;648
+649;1238;2023-07-01;Głogów;Nadrzeczna;1;16;649
+650;1721;2023-07-01;Jaworzno;Krakowska;15;13;650
+651;801;2023-07-01;Głogów;Wyszyńskiego;8;7;651
+652;1968;2023-07-01;Opole;Kościelna;6;18;652
+653;1615;2023-07-01;Jaworzno;Łąkowa;1;12;653
+654;1539;2023-07-01;Gorzów Wielkopolski;Jana Pawła II;1;6;654
+655;1627;2023-07-01;Zielona Góra;Ogrodowa;15;15;655
+656;771;2023-07-01;Jaworzno;Olszynowa;19;9;656
+657;1599;2023-07-01;Głogów;Wiejska;13;10;657
+658;1864;2023-07-01;Głogów;Łąkowa;3;2;658
+659;1521;2023-07-01;Jaworzno;Leśna;13;17;659
+660;820;2023-07-01;Jaworzno;Krótka;7;0;660
+661;991;2023-07-01;Głogów;Królowej Jadwigi;5;10;661
+662;960;2023-07-01;Gorzów Wielkopolski;Kwiatowa;3;13;662
+663;1287;2023-07-01;Racibórz;Zamkowa;6;11;663
+664;1421;2023-07-01;Gorzów Wielkopolski;Miodowa;17;9;664
+665;1478;2023-07-01;Opole;Rynek;15;19;665
+666;927;2023-07-01;Zielona Góra;Królowej Jadwigi;4;14;666
+667;591;2023-07-01;Racibórz;Słowackiego;20;3;667
+668;552;2023-07-01;Legnica;Piastowska;13;14;668
+669;818;2023-07-01;Racibórz;Różana;8;15;669
+670;521;2023-07-01;Głogów;Kasprzaka;6;3;670
+671;503;2023-07-01;Racibórz;Sportowa;7;8;671
+672;1268;2023-07-01;Opole;Kościuszki;19;15;672
+673;724;2023-07-01;Jaworzno;Mazowiecka;12;1;673
+674;658;2023-07-01;Jaworzno;Nadrzeczna;14;19;674
+675;1514;2023-07-01;Wałbrzych;Wiejska;4;3;675
+676;1207;2023-07-01;Jaworzno;Wiejska;20;13;676
+677;1775;2023-07-01;Głogów;Kościuszki;9;3;677
+678;1558;2023-07-01;Wałbrzych;Olszynowa;18;3;678
+679;802;2023-07-01;Wrocław;Kwiatowa;1;12;679
+680;897;2023-07-01;Racibórz;Boczna;15;13;680
+681;946;2023-07-01;Jastrzębie-Zdrój;Królowej Jadwigi;16;15;681
+682;1791;2023-07-01;Jaworzno;Wolności;7;3;682
+683;580;2023-07-01;Głogów;Wolności;6;7;683
+684;619;2023-07-01;Głogów;Zamkowa;2;15;684
+685;1584;2023-07-01;Racibórz;Nowa;10;9;685
+686;1060;2023-07-01;Głogów;Kasztanowa;10;8;686
+687;1760;2023-07-01;Wrocław;Sportowa;4;8;687
+688;1859;2023-07-01;Jastrzębie-Zdrój;Nowa;9;9;688
+689;1457;2023-07-01;Wrocław;Władysława IV;6;9;689
+690;1950;2023-07-01;Wałbrzych;Nowa;18;14;690
+691;990;2023-07-01;Opole;Mazowiecka;13;5;691
+692;1454;2023-07-01;Legnica;Wojska Polskiego;20;19;692
+693;1170;2023-07-01;Głogów;Słoneczna;7;7;693
+694;1697;2023-07-01;Głogów;Kościelna;10;4;694
+695;1521;2023-07-01;Opole;Akacjowa;13;17;695
+696;1044;2023-07-01;Racibórz;Nowa;6;5;696
+697;1546;2023-07-01;Gorzów Wielkopolski;Wojska Polskiego;19;6;697
+698;711;2023-07-01;Opole;Mazowiecka;2;6;698
+699;1943;2023-07-01;Racibórz;Wąska;20;20;699
+700;1215;2023-07-01;Jaworzno;Kwiatowa;20;9;700
+701;1671;2023-07-01;Wałbrzych;Wyszyńskiego;2;9;701
+702;1635;2023-07-01;Głogów;Młyńska;13;2;702
+703;1639;2023-07-01;Opole;Kościuszki;5;5;703
+704;953;2023-07-01;Jastrzębie-Zdrój;Różana;4;18;704
+705;1865;2023-07-01;Wrocław;Zamkowa;20;19;705
+706;868;2023-07-01;Legnica;Wyszyńskiego;15;19;706
+707;1283;2023-07-01;Jaworzno;Ogrodowa;6;6;707
+708;1022;2023-07-01;Racibórz;Krótka;1;3;708
+709;1908;2023-07-01;Głogów;Jana Pawła II;1;18;709
+710;1975;2023-07-01;Legnica;Dworcowa;12;14;710
+711;797;2023-07-01;Głogów;Sportowa;18;0;711
+712;1039;2023-07-01;Zielona Góra;Mickiewicza;20;14;712
+713;1423;2023-07-01;Wałbrzych;Szkolna;9;10;713
+714;1582;2023-07-01;Racibórz;Lipowa;13;14;714
+715;700;2023-07-01;Jaworzno;Paderewskiego;8;12;715
+716;722;2023-07-01;Jastrzębie-Zdrój;Klonowa;4;10;716
+717;949;2023-07-01;Legnica;Ogrodowa;16;9;717
+718;685;2023-07-01;Zielona Góra;Kwiatowa;1;10;718
+719;1824;2023-07-01;Racibórz;Wyszyńskiego;5;1;719
+720;1010;2023-07-01;Wrocław;Długa;20;7;720
+721;1717;2023-07-01;Wałbrzych;Krótka;12;7;721
+722;1995;2023-07-01;Zielona Góra;Kościuszki;18;0;722
+723;1342;2023-07-01;Jastrzębie-Zdrój;Słoneczna;1;9;723
+724;821;2023-07-01;Zielona Góra;Sobieskiego;4;1;724
+725;774;2023-07-01;Gorzów Wielkopolski;Łąkowa;19;0;725
+726;1686;2023-07-01;Jaworzno;Kościuszki;14;0;726
+727;1604;2023-07-01;Racibórz;Szkolna;16;10;727
+728;1074;2023-07-01;Zielona Góra;Cicha;3;9;728
+729;822;2023-07-01;Jastrzębie-Zdrój;Wolności;7;0;729
+730;1170;2023-07-01;Wałbrzych;Sikorskiego;7;8;730
+731;1610;2023-07-01;Gorzów Wielkopolski;Mazowiecka;16;8;731
+732;1451;2023-07-01;Głogów;Długa;13;11;732
+733;1542;2023-07-01;Gorzów Wielkopolski;Miodowa;17;11;733
+734;1268;2023-07-01;Zielona Góra;Leśna;16;11;734
+735;1318;2023-07-01;Jaworzno;Młyńska;2;17;735
+736;1031;2023-07-01;Wrocław;Nadrzeczna;7;19;736
+737;892;2023-07-01;Legnica;Wojska Polskiego;14;7;737
+738;1384;2023-07-01;Racibórz;Zamkowa;8;10;738
+739;1016;2023-07-01;Zielona Góra;Kopernika;4;8;739
+740;1716;2023-07-01;Jaworzno;Lipowa;20;5;740
+741;1370;2023-07-01;Legnica;Spokojna;5;8;741
+742;1042;2023-07-01;Gorzów Wielkopolski;Wąska;8;5;742
+743;1508;2023-07-01;Gorzów Wielkopolski;Kościuszki;19;7;743
+744;713;2023-07-01;Legnica;Cicha;2;4;744
+745;1381;2023-07-01;Opole;Mazowiecka;20;16;745
+746;652;2023-07-01;Głogów;Spokojna;1;4;746
+747;1855;2023-07-01;Zielona Góra;Sikorskiego;16;16;747
+748;549;2023-07-01;Legnica;Paderewskiego;6;4;748
+749;1846;2023-07-01;Gorzów Wielkopolski;Kwiatowa;4;14;749
+750;1414;2023-07-01;Jastrzębie-Zdrój;Sikorskiego;3;16;750
+751;939;2023-07-01;Wałbrzych;Kościuszki;20;16;751
+752;798;2023-07-01;Racibórz;Olszynowa;5;9;752
+753;1250;2023-07-01;Głogów;Zamkowa;8;14;753
+754;964;2023-07-01;Gorzów Wielkopolski;Kopernika;12;11;754
+755;1078;2023-07-01;Wałbrzych;Olszynowa;11;10;755
+756;1655;2023-07-01;Głogów;Kościuszki;8;20;756
+757;1275;2023-07-01;Jastrzębie-Zdrój;Wolności;15;3;757
+758;793;2023-07-01;Jastrzębie-Zdrój;Ogrodowa;14;20;758
+759;1440;2023-07-01;Opole;Sikorskiego;20;12;759
+760;730;2023-07-01;Zielona Góra;Krótka;16;17;760
+761;1877;2023-07-01;Racibórz;Wyszyńskiego;2;8;761
+762;519;2023-07-01;Opole;Wąska;20;6;762
+763;1360;2023-07-01;Wałbrzych;Wojska Polskiego;12;18;763
+764;1576;2023-07-01;Zielona Góra;Miodowa;6;15;764
+765;1229;2023-07-01;Głogów;Wesoła;6;18;765
+766;1496;2023-07-01;Jastrzębie-Zdrój;Kwiatowa;3;4;766
+767;656;2023-07-01;Gorzów Wielkopolski;Sikorskiego;12;3;767
+768;606;2023-07-01;Zielona Góra;Szkolna;15;14;768
+769;1726;2023-07-01;Racibórz;Boczna;5;4;769
+770;843;2023-07-01;Jastrzębie-Zdrój;Akacjowa;11;16;770
+771;1206;2023-07-01;Zielona Góra;Cicha;8;2;771
+772;1923;2023-07-01;Wrocław;Wyszyńskiego;11;19;772
+773;657;2023-07-01;Zielona Góra;Kopernika;2;1;773
+774;1785;2023-07-01;Głogów;Krakowska;20;19;774
+775;1560;2023-07-01;Legnica;Wesoła;7;17;775
+776;1101;2023-07-01;Zielona Góra;Władysława IV;1;11;776
+777;892;2023-07-01;Legnica;Ogrodowa;7;3;777
+778;1985;2023-07-01;Głogów;Wiejska;15;12;778
+779;1069;2023-07-01;Głogów;Cicha;12;19;779
+780;631;2023-07-01;Legnica;Nowa;12;4;780
+781;574;2023-07-01;Gorzów Wielkopolski;Kopernika;3;2;781
+782;1096;2023-07-01;Legnica;Mickiewicza;17;3;782
+783;1717;2023-07-01;Racibórz;Leśna;11;0;783
+784;1172;2023-07-01;Racibórz;Mickiewicza;8;1;784
+785;675;2023-07-01;Opole;Wyszyńskiego;14;3;785
+786;925;2023-07-01;Racibórz;Wesoła;10;16;786
+787;681;2023-07-01;Jaworzno;Długa;20;4;787
+788;767;2023-07-01;Jaworzno;Mazowiecka;1;11;788
+789;1896;2023-07-01;Gorzów Wielkopolski;Kasprzaka;14;13;789
+790;840;2023-07-01;Legnica;Władysława IV;9;10;790
+791;946;2023-07-01;Jaworzno;Władysława IV;3;13;791
+792;1792;2023-07-01;Głogów;Wiejska;6;5;792
+793;1429;2023-07-01;Opole;Lipowa;7;0;793
+794;1128;2023-07-01;Gorzów Wielkopolski;Długa;8;10;794
+795;1361;2023-07-01;Głogów;Paderewskiego;15;7;795
+796;1812;2023-07-01;Gorzów Wielkopolski;Łąkowa;14;3;796
+797;814;2023-07-01;Zielona Góra;Piastowska;6;12;797
+798;565;2023-07-01;Racibórz;Wolności;1;16;798
+799;1574;2023-07-01;Gorzów Wielkopolski;Krótka;3;16;799
+800;1168;2023-07-01;Gorzów Wielkopolski;Kościelna;19;15;800
+801;1744;2023-07-01;Opole;Spokojna;16;20;801
+802;1053;2023-07-01;Wałbrzych;Szkolna;2;10;802
+803;895;2023-07-01;Wałbrzych;Nadrzeczna;17;5;803
+804;1492;2023-07-01;Zielona Góra;Młyńska;8;12;804
+805;1918;2023-07-01;Gorzów Wielkopolski;Zamkowa;1;3;805
+806;1385;2023-07-01;Legnica;Wesoła;17;2;806
+807;797;2023-07-01;Jastrzębie-Zdrój;Kasztanowa;11;16;807
+808;653;2023-07-01;Opole;Kościuszki;9;13;808
+809;1357;2023-07-01;Legnica;Nowa;7;17;809
+810;520;2023-07-01;Opole;Wolności;3;10;810
+811;1667;2023-07-01;Jastrzębie-Zdrój;Olszynowa;12;16;811
+812;1001;2023-07-01;Wałbrzych;Kościuszki;13;2;812
+813;1141;2023-07-01;Jastrzębie-Zdrój;Kościelna;15;9;813
+814;1991;2023-07-01;Wrocław;Kasprzaka;1;4;814
+815;1750;2023-07-01;Jastrzębie-Zdrój;Władysława IV;18;19;815
+816;679;2023-07-01;Jastrzębie-Zdrój;Krótka;18;16;816
+817;1585;2023-07-01;Legnica;Szkolna;18;16;817
+818;1261;2023-07-01;Głogów;Długa;11;13;818
+819;991;2023-07-01;Głogów;Jana Pawła II;1;14;819
+820;855;2023-07-01;Wałbrzych;Plac Wolności;17;17;820
+821;1272;2023-07-01;Legnica;Kopernika;12;3;821
+822;961;2023-07-01;Racibórz;Lipowa;18;7;822
+823;735;2023-07-01;Gorzów Wielkopolski;Młyńska;17;6;823
+824;526;2023-07-01;Wałbrzych;Sikorskiego;3;15;824
+825;1761;2023-07-01;Gorzów Wielkopolski;Różana;16;5;825
+826;811;2023-07-01;Głogów;Mazowiecka;19;9;826
+827;1651;2023-07-01;Wałbrzych;Słoneczna;7;2;827
+828;1507;2023-07-01;Wrocław;Wolności;18;13;828
+829;508;2023-07-01;Opole;Kasztanowa;4;13;829
+830;726;2023-07-01;Jastrzębie-Zdrój;Jana Pawła II;20;4;830
+831;1262;2023-07-01;Racibórz;Olszynowa;1;17;831
+832;876;2023-07-01;Jastrzębie-Zdrój;Akacjowa;13;0;832
+833;522;2023-07-01;Zielona Góra;Kwiatowa;17;6;833
+834;1122;2023-07-01;Wałbrzych;Paderewskiego;11;11;834
+835;1042;2023-07-01;Racibórz;Kasprzaka;13;7;835
+836;541;2023-07-01;Racibórz;Kasztanowa;5;4;836
+837;1281;2023-07-01;Głogów;Paderewskiego;14;15;837
+838;1011;2023-07-01;Racibórz;Wiejska;19;5;838
+839;1041;2023-07-01;Gorzów Wielkopolski;Łąkowa;20;18;839
+840;1865;2023-07-01;Gorzów Wielkopolski;Wąska;1;11;840
+841;1797;2023-07-01;Gorzów Wielkopolski;Mickiewicza;5;19;841
+842;771;2023-07-01;Zielona Góra;Krótka;6;20;842
+843;609;2023-07-01;Jaworzno;Łąkowa;1;12;843
+844;755;2023-07-01;Zielona Góra;Sienkiewicza;17;11;844
+845;589;2023-07-01;Wrocław;Łąkowa;14;13;845
+846;772;2023-07-01;Głogów;Wąska;9;12;846
+847;610;2023-07-01;Jaworzno;Lipowa;3;19;847
+848;1502;2023-07-01;Legnica;Władysława IV;15;17;848
+849;1095;2023-07-01;Legnica;Boczna;9;17;849
+850;1695;2023-07-01;Głogów;Kościuszki;4;8;850
+851;1990;2023-07-01;Wrocław;Zamkowa;4;18;851
+852;557;2023-07-01;Opole;Młyńska;1;3;852
+853;679;2023-07-01;Jaworzno;Krakowska;8;12;853
+854;1782;2023-07-01;Jaworzno;Sikorskiego;10;19;854
+855;1050;2023-07-01;Zielona Góra;Plac Wolności;7;19;855
+856;1900;2023-07-01;Zielona Góra;Mazowiecka;16;18;856
+857;1651;2023-07-01;Racibórz;Piastowska;19;8;857
+858;1193;2023-07-01;Opole;Plac Wolności;2;0;858
+859;916;2023-07-01;Legnica;Kasprzaka;3;15;859
+860;1373;2023-07-01;Zielona Góra;Rynek;9;20;860
+861;1332;2023-07-01;Zielona Góra;Plac Wolności;7;11;861
+862;1127;2023-07-01;Opole;Miodowa;2;15;862
+863;1991;2023-07-01;Wrocław;Plac Wolności;16;17;863
+864;712;2023-07-01;Gorzów Wielkopolski;Wolności;2;6;864
+865;1542;2023-07-01;Wałbrzych;Krakowska;7;1;865
+866;573;2023-07-01;Zielona Góra;Zamkowa;20;13;866
+867;1954;2023-07-01;Opole;Nadrzeczna;2;6;867
+868;1489;2023-07-01;Racibórz;Kasztanowa;10;14;868
+869;1066;2023-07-01;Legnica;Ogrodowa;18;8;869
+870;742;2023-07-01;Jaworzno;Sikorskiego;8;3;870
+871;1635;2023-07-01;Legnica;Kościuszki;18;5;871
+872;573;2023-07-01;Jastrzębie-Zdrój;Wojska Polskiego;1;9;872
+873;1970;2023-07-01;Jastrzębie-Zdrój;Szkolna;6;0;873
+874;1037;2023-07-01;Legnica;Mazowiecka;1;19;874
+875;590;2023-07-01;Gorzów Wielkopolski;Słoneczna;15;20;875
+876;1544;2023-07-01;Zielona Góra;Sportowa;20;15;876
+877;1144;2023-07-01;Opole;Leśna;13;20;877
+878;1290;2023-07-01;Wrocław;Akacjowa;4;9;878
+879;1038;2023-07-01;Legnica;Piastowska;8;12;879
+880;972;2023-07-01;Legnica;Kasztanowa;10;2;880
+881;1310;2023-07-01;Jastrzębie-Zdrój;Lipowa;15;12;881
+882;789;2023-07-01;Zielona Góra;Różana;6;19;882
+883;1370;2023-07-01;Jaworzno;Klonowa;10;19;883
+884;667;2023-07-01;Jastrzębie-Zdrój;Lipowa;15;3;884
+885;1657;2023-07-01;Głogów;Jana Pawła II;3;10;885
+886;1174;2023-07-01;Racibórz;Olszynowa;18;3;886
+887;544;2023-07-01;Racibórz;Plac Wolności;1;10;887
+888;634;2023-07-01;Opole;Sienkiewicza;1;10;888
+889;645;2023-07-01;Jaworzno;Wyszyńskiego;3;15;889
+890;1448;2023-07-01;Jaworzno;Wolności;15;3;890
+891;1045;2023-07-01;Jaworzno;Spokojna;9;2;891
+892;1062;2023-07-01;Opole;Olszynowa;16;9;892
+893;1134;2023-07-01;Opole;Kościuszki;6;7;893
+894;1318;2023-07-01;Gorzów Wielkopolski;Paderewskiego;6;15;894
+895;1657;2023-07-01;Wrocław;Plac Wolności;8;20;895
+896;1849;2023-07-01;Jaworzno;Klonowa;15;19;896
+897;985;2023-07-01;Jastrzębie-Zdrój;Jana Pawła II;1;7;897
+898;1013;2023-07-01;Gorzów Wielkopolski;Łąkowa;5;15;898
+899;692;2023-07-01;Wrocław;Miodowa;3;0;899
+900;568;2023-07-01;Legnica;Cicha;18;20;900
+901;1166;2023-07-01;Opole;Sikorskiego;10;18;901
+902;983;2023-07-01;Wałbrzych;Leśna;16;11;902
+903;1966;2023-07-01;Zielona Góra;Sportowa;10;5;903
+904;1208;2023-07-01;Gorzów Wielkopolski;Kasprzaka;19;4;904
+905;618;2023-07-01;Gorzów Wielkopolski;Kasztanowa;5;17;905
+906;835;2023-07-01;Głogów;Miodowa;20;18;906
+907;1070;2023-07-01;Jastrzębie-Zdrój;Jana Pawła II;10;0;907
+908;1380;2023-07-01;Wrocław;Władysława IV;12;1;908
+909;884;2023-07-01;Wrocław;Wojska Polskiego;1;12;909
+910;1712;2023-07-01;Zielona Góra;Krótka;7;16;910
+911;1977;2023-07-01;Racibórz;Słoneczna;11;1;911
+912;1989;2023-07-01;Gorzów Wielkopolski;Nowa;4;5;912
+913;1115;2023-07-01;Zielona Góra;Boczna;6;0;913
+914;959;2023-07-01;Zielona Góra;Sikorskiego;10;16;914
+915;847;2023-07-01;Wrocław;Wiejska;5;12;915
+916;996;2023-07-01;Wałbrzych;Piastowska;17;17;916
+917;1405;2023-07-01;Zielona Góra;Różana;6;5;917
+918;764;2023-07-01;Wałbrzych;Słowackiego;9;8;918
+919;780;2023-07-01;Głogów;Zamkowa;14;1;919
+920;1782;2023-07-01;Racibórz;Lipowa;10;13;920
+921;845;2023-07-01;Wałbrzych;Kopernika;13;2;921
+922;1244;2023-07-01;Gorzów Wielkopolski;Polna;2;19;922
+923;1016;2023-07-01;Racibórz;Zamkowa;18;8;923
+924;720;2023-07-01;Wałbrzych;Wesoła;3;11;924
+925;936;2023-07-01;Opole;Lipowa;19;2;925
+926;1474;2023-07-01;Zielona Góra;Mickiewicza;1;13;926
+927;1641;2023-07-01;Jastrzębie-Zdrój;Miodowa;6;19;927
+928;966;2023-07-01;Opole;Różana;6;10;928
+929;1871;2023-07-01;Zielona Góra;Władysława IV;8;15;929
+930;873;2023-07-01;Jastrzębie-Zdrój;Paderewskiego;18;10;930
+931;821;2023-07-01;Wałbrzych;Kasprzaka;15;5;931
+932;1007;2023-07-01;Racibórz;Zamkowa;8;12;932
+933;1892;2023-07-01;Głogów;Łąkowa;2;3;933
+934;901;2023-07-01;Jaworzno;Plac Wolności;8;16;934
+935;1560;2023-07-01;Opole;Szkolna;14;0;935
+936;517;2023-07-01;Opole;Krótka;15;2;936
+937;1492;2023-07-01;Gorzów Wielkopolski;Olszynowa;10;7;937
+938;1704;2023-07-01;Racibórz;Kasztanowa;5;16;938
+939;1422;2023-07-01;Racibórz;Wyszyńskiego;2;20;939
+940;556;2023-07-01;Wrocław;Spokojna;11;12;940
+941;711;2023-07-01;Wrocław;Sienkiewicza;18;12;941
+942;1987;2023-07-01;Jaworzno;Ogrodowa;16;10;942
+943;1230;2023-07-01;Gorzów Wielkopolski;Klonowa;17;10;943
+944;1133;2023-07-01;Głogów;Kościuszki;18;16;944
+945;1655;2023-07-01;Racibórz;Kościuszki;14;15;945
+946;1321;2023-07-01;Racibórz;Kościuszki;3;18;946
+947;1490;2023-07-01;Głogów;Wąska;3;4;947
+948;1551;2023-07-01;Jastrzębie-Zdrój;Łąkowa;19;4;948
+949;1698;2023-07-01;Jaworzno;Szkolna;13;3;949
+950;1285;2023-07-01;Wałbrzych;Sobieskiego;5;15;950
+951;979;2023-07-01;Wrocław;Olszynowa;7;3;951
+952;612;2023-07-01;Gorzów Wielkopolski;Różana;19;2;952
+953;1214;2023-07-01;Racibórz;Wojska Polskiego;16;0;953
+954;916;2023-07-01;Jastrzębie-Zdrój;Nowa;19;11;954
+955;1907;2023-07-01;Opole;Kopernika;2;15;955
+956;1940;2023-07-01;Jastrzębie-Zdrój;Sportowa;14;9;956
+957;1670;2023-07-01;Legnica;Krótka;11;8;957
+958;877;2023-07-01;Wrocław;Słowackiego;5;2;958
+959;880;2023-07-01;Gorzów Wielkopolski;Młyńska;16;4;959
+960;1893;2023-07-01;Wrocław;Wojska Polskiego;12;4;960
+961;832;2023-07-01;Racibórz;Paderewskiego;12;3;961
+962;1261;2023-07-01;Głogów;Kościuszki;1;15;962
+963;656;2023-07-01;Gorzów Wielkopolski;Kasprzaka;16;7;963
+964;1932;2023-07-01;Jaworzno;Wolności;4;8;964
+965;1633;2023-07-01;Wrocław;Krótka;14;0;965
+966;1083;2023-07-01;Głogów;Kasprzaka;11;6;966
+967;670;2023-07-01;Głogów;Spokojna;7;1;967
+968;855;2023-07-01;Głogów;Wiejska;1;5;968
+969;1897;2023-07-01;Opole;Lipowa;18;18;969
+970;1890;2023-07-01;Wałbrzych;Kasztanowa;11;10;970
+971;582;2023-07-01;Legnica;Wojska Polskiego;11;17;971
+972;770;2023-07-01;Gorzów Wielkopolski;Polna;4;10;972
+973;1716;2023-07-01;Racibórz;Lipowa;14;2;973
+974;1396;2023-07-01;Jastrzębie-Zdrój;Zamkowa;2;9;974
+975;1940;2023-07-01;Opole;Słoneczna;11;13;975
+976;785;2023-07-01;Legnica;Wyszyńskiego;17;4;976
+977;974;2023-07-01;Wrocław;Krakowska;8;9;977
+978;915;2023-07-01;Legnica;Spokojna;19;10;978
+979;830;2023-07-01;Wałbrzych;Łąkowa;11;8;979
+980;910;2023-07-01;Zielona Góra;Nadrzeczna;1;6;980
+981;1813;2023-07-01;Racibórz;Paderewskiego;16;7;981
+982;524;2023-07-01;Jaworzno;Sikorskiego;20;20;982
+983;1395;2023-07-01;Jaworzno;Mickiewicza;1;8;983
+984;1629;2023-07-01;Wałbrzych;Rynek;17;12;984
+985;789;2023-07-01;Legnica;Kościelna;9;11;985
+986;1393;2023-07-01;Gorzów Wielkopolski;Krótka;9;7;986
+987;1001;2023-07-01;Gorzów Wielkopolski;Nadrzeczna;13;19;987
+988;1362;2023-07-01;Legnica;Wyszyńskiego;19;20;988
+989;1330;2023-07-01;Racibórz;Spokojna;7;5;989
+990;1758;2023-07-01;Jaworzno;Sikorskiego;8;15;990
+991;1981;2023-07-01;Zielona Góra;Kościuszki;6;18;991
+992;1541;2023-07-01;Wrocław;Różana;8;13;992
+993;952;2023-07-01;Racibórz;Słowackiego;4;4;993
+994;995;2023-07-01;Racibórz;Słoneczna;18;2;994
+995;584;2023-07-01;Głogów;Kasztanowa;1;19;995
+996;1143;2023-07-01;Zielona Góra;Różana;20;6;996
+997;945;2023-07-01;Wrocław;Kościuszki;10;0;997
+998;752;2023-07-01;Wałbrzych;Słowackiego;4;4;998
+999;1358;2023-07-01;Racibórz;Kościuszki;16;9;999
+1000;959;2023-07-01;Wałbrzych;Sikorskiego;9;11;1000
