@@ -1,6 +1,7 @@
 import sqlite3
 import csv
 
+
 """ Aplikacja do mobilnego zbierania informacji o klientach i odczytów ich domowych liczników.
     
     Funkcja main() stanowi główne ciało programu i umożliwia wybranie przez użytkownika różnych funkcji.
@@ -152,7 +153,7 @@ def wypisz(cur):
     try:
         cur.execute("""SELECT klienci.ID_klienta, Odczyty.Miejscowosc, odczyty.Wartosc, odczyty.Data_odczytu FROM klienci, odczyty
                        WHERE klienci.ID_klienta = odczyty.ID_klienta""")
-        print("ID klienta/Miejscowosc/Wartosc/Data odczytu")
+        print(f"""{"ID klienta":20}{"Miejscowość":20}{"Wartość":20}{"Data odczytu":20}""")
         for odczyt in cur.fetchall():
             for atrybut in odczyt:
                 print(f"{str(atrybut):20}", end="")

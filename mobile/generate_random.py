@@ -203,8 +203,7 @@ def randomize():
                     ({random.randint(500, 2000)}, '{cities[random.randint(0, len(cities)-1)]}', '{streets[random.randint(0, len(streets)-1)]}',
                     {random.randint(1, 20)}, {random.randint(0, 20)}, {i+1})""")
     conn.commit()
-    
+
 
 if __name__ == '__main__':
     randomize()
-    
