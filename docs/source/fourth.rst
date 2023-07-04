@@ -14,9 +14,9 @@ W tej części projektu zostały napisane moduły znajdujące się w katalogu **
     from main.analiza import analiza
     analiza()
 
-Moduł umożliwia filtrowanie rekordów w bazie danych PostgreSQL za pomocą ID klienta lub miejscowości odczytu.
+Moduł umożliwia filtrowanie rekordów w bazie danych PostgreSQL za pomocą ID klienta, miejscowości odczytu lub według wartości odczytu (większe niż, mniejsze niż lub pomiędzy).
 
-Drugi moduł wykorzystuje numpy/matplotlib i może być wykorzystany do graficznego raportowania sumy odczytów wg miejscowości. Odbywa się to poprzez wykonanie następującego kodu w Jupyter Notebook z poziomu katalogu głównego projektu:
+Drugi moduł wykorzystuje numpy/matplotlib i może być wykorzystany do graficznego raportowania sumy odczytów według miejscowości. Odbywa się to poprzez wykonanie następującego kodu w Jupyter Notebook z poziomu katalogu głównego projektu:
 
 .. code-block:: Python
 
