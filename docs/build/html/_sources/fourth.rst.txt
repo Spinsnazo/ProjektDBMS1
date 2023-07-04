@@ -7,12 +7,12 @@
 :Version: 1.0 of 1.07.2023
 :Course: Databases I
 
-W tej części projektu zostały napisane moduły znajdujące się w katalogu **main** - **analiza.py** oraz **raport.py**. Pierwszy z wymienionych może zostać uruchomiony z poziomu katalogu głównego projektu za pomocą poleceń
+W tej części projektu zostały napisane moduły znajdujące się w katalogu **main** - **analiza.py** oraz **raport.py**. Pierwszy z wymienionych może zostać uruchomiony z poziomu notatnika Jupyter za pomocą linii kodu:
 
-.. code-block:: console
+.. code-block:: Python
 
-    poetry shell
-    python3 main/analiza.py
+    from main.analiza import analiza
+    analiza()
 
 Moduł umożliwia filtrowanie rekordów w bazie danych PostgreSQL za pomocą ID klienta lub miejscowości odczytu.
 

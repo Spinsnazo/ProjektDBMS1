@@ -28,13 +28,15 @@ Zostały sporządzone skrypty do obsługi bazy danych PostgreSQL wykorzystujące
 #. **wynik.py** - odczytanie wyników; zawiera możliwą do zaimportowania funkcję wynik(), która zwraca listę krotek - rekordów bazy danych w postaci **(ID klienta, imię, nazwisko, miejscowość, ulica, nr domu, nr mieszkania, wartość odczytu, data odczytu)**. Umożliwia to w dalszym etapie analizę i wizualizację danych.
 
 
-W celu uruchomienia pożądanego skryptu należy wykonać sekwencję poleceń terminalowych z poziomu katalogu głównego:
+Zakładając użycie funkcji z wymienionych modułów z poziomu notatnika Jupyter, należy wykonać następujące linie kodu:
 
 
-.. code-block:: console
+.. code-block:: Python
 
-    poetry shell
-    python3 main/<nazwa pliku z rozszerzeniem .py>
+    from main.<nazwa pliku .py> import <nazwa pliku bez .py>
+    <nazwa pliku bez .py>()
+    
+Co spowoduje wykonanie odpowiedniej funkcji z odpowiedniego modułu.
     
 
 W głównym katalogu należy umieścić plik JSON **database_creds.json**, który zawiera dane logowania do bazy danych PostgreSQL, tj. w formacie:

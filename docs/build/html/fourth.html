@@ -44,9 +44,9 @@
 <dd class="field-odd"><p>Databases I</p>
 </dd>
 </dl>
-<p>W tej części projektu zostały napisane moduły znajdujące się w katalogu <strong>main</strong> - <strong>analiza.py</strong> oraz <strong>raport.py</strong>. Pierwszy z wymienionych może zostać uruchomiony z poziomu katalogu głównego projektu za pomocą poleceń</p>
-<div class="highlight-console notranslate"><div class="highlight"><pre><span></span><span class="go">poetry shell</span>
-<span class="go">python3 main/analiza.py</span>
+<p>W tej części projektu zostały napisane moduły znajdujące się w katalogu <strong>main</strong> - <strong>analiza.py</strong> oraz <strong>raport.py</strong>. Pierwszy z wymienionych może zostać uruchomiony z poziomu notatnika Jupyter za pomocą linii kodu:</p>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">main.analiza</span> <span class="kn">import</span> <span class="n">analiza</span>
+<span class="n">analiza</span><span class="p">()</span>
 </pre></div>
 </div>
 <p>Moduł umożliwia filtrowanie rekordów w bazie danych PostgreSQL za pomocą ID klienta lub miejscowości odczytu.</p>

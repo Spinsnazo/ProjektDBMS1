@@ -58,11 +58,12 @@
 <li><p><strong>wprowadz.py</strong> - umożliwia wprowadzenie kilku wierszy danych do bazy danych (klientów/odczytów)</p></li>
 <li><p><strong>wynik.py</strong> - odczytanie wyników; zawiera możliwą do zaimportowania funkcję wynik(), która zwraca listę krotek - rekordów bazy danych w postaci <strong>(ID klienta, imię, nazwisko, miejscowość, ulica, nr domu, nr mieszkania, wartość odczytu, data odczytu)</strong>. Umożliwia to w dalszym etapie analizę i wizualizację danych.</p></li>
 </ol>
-<p>W celu uruchomienia pożądanego skryptu należy wykonać sekwencję poleceń terminalowych z poziomu katalogu głównego:</p>
-<div class="highlight-console notranslate"><div class="highlight"><pre><span></span><span class="go">poetry shell</span>
-<span class="go">python3 main/&lt;nazwa pliku z rozszerzeniem .py&gt;</span>
+<p>Zakładając użycie funkcji z wymienionych modułów z poziomu notatnika Jupyter, należy wykonać następujące linie kodu:</p>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">main.</span><span class="o">&lt;</span><span class="n">nazwa</span> <span class="n">pliku</span> <span class="o">.</span><span class="n">py</span><span class="o">&gt;</span> <span class="kn">import</span> <span class="o">&lt;</span><span class="n">nazwa</span> <span class="n">pliku</span> <span class="n">bez</span> <span class="o">.</span><span class="n">py</span><span class="o">&gt;</span>
+<span class="o">&lt;</span><span class="n">nazwa</span> <span class="n">pliku</span> <span class="n">bez</span> <span class="o">.</span><span class="n">py</span><span class="o">&gt;</span><span class="p">()</span>
 </pre></div>
 </div>
+<p>Co spowoduje wykonanie odpowiedniej funkcji z odpowiedniego modułu.</p>
 <p>W głównym katalogu należy umieścić plik JSON <strong>database_creds.json</strong>, który zawiera dane logowania do bazy danych PostgreSQL, tj. w formacie:</p>
 <div class="highlight-JSON notranslate"><div class="highlight"><pre><span></span><span class="p">{</span>
 <span class="w"> </span><span class="nt">&quot;user_name&quot;</span><span class="p">:</span><span class="w"> </span><span class="s2">&quot;nazwa uzytkownika&quot;</span><span class="p">,</span>
