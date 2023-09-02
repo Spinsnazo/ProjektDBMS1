@@ -4,7 +4,7 @@
 
 ## Project setup
 
-1. Make sure you have Python and poetry installed. The second one can be obtained by using the following command:
+1. Make sure you have Python and Poetry installed. The second one can be obtained by using the following command:
 ```sh
 pip install poetry
 ```
@@ -13,7 +13,7 @@ pip install poetry
 git clone https://github.com/Spinsnazo/ProjektDBMS1.git
 cd ./ProjektDBMS1/
 ```
-3. Install dependecies.
+3. Install dependencies.
 ```sh
 poetry install
 ```
